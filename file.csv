@@ -1,0 +1,1899 @@
+,Course_Code,Course,Points1,Points2
+0,Course_Code,Course,Points1,Points2
+1,AL801,Software Design for Virtual Reality and Gaming    ,300,
+2,Course_Code,Course,Points1,Points2
+3,AL802,Software Design in Artificial Intelligence for Clo,313,
+4,Course_Code,Course,Points1,Points2
+5,AL803,Software Design for Mobile Apps and Connected Devi,350,
+6,Course_Code,Course,Points1,Points2
+7,AL805,Computer Engineering for Network Infrastructure   ,321,
+8,Course_Code,Course,Points1,Points2
+9,AL810,Quantity Surveying                                ,328,
+10,Course_Code,Course,Points1,Points2
+11,AL811,Civil Engineering                                 ,,
+12,Course_Code,Course,Points1,Points2
+13,AL820,Mechanical and Polymer Engineering                ,327,
+14,Course_Code,Course,Points1,Points2
+15,AL830,General Nursing                                   ,451*,444
+16,Course_Code,Course,Points1,Points2
+17,AL832,Mental Health Nursing                             ,440*,431
+18,Course_Code,Course,Points1,Points2
+19,AL835,Pharmacology                                      ,356,
+20,Course_Code,Course,Points1,Points2
+21,AL836,Nutrition and Health Science                      ,346,
+22,Course_Code,Course,Points1,Points2
+23,AL837,Sports Science with Exercise Physiology           ,357,
+24,Course_Code,Course,Points1,Points2
+25,AL838,Biotechnology                                     ,324,
+26,Course_Code,Course,Points1,Points2
+27,AL839,Microbiology                                      ,325,
+28,Course_Code,Course,Points1,Points2
+29,AL840,Pharmaceutical Sciences                           ,346,
+30,Course_Code,Course,Points1,Points2
+31,AL841,Athletic and Rehabilitation Therapy               ,477,476*
+32,Course_Code,Course,Points1,Points2
+33,AL842,Bioveterinary Science                             ,338,
+34,Course_Code,Course,Points1,Points2
+35,AL843,Physical Activity and Health Science              ,306,
+36,Course_Code,Course,Points1,Points2
+37,AL849,Culinary Entrepreneurship                         ,297,
+38,Course_Code,Course,Points1,Points2
+39,AL850,Business                                          ,309,
+40,Course_Code,Course,Points1,Points2
+41,AL851,Business and Law                                  ,302,
+42,Course_Code,Course,Points1,Points2
+43,AL852,Accounting                                        ,336,
+44,Course_Code,Course,Points1,Points2
+45,AL854,Sport Management (with international placement)   ,300,299
+46,Course_Code,Course,Points1,Points2
+47,AL855,Hospitality Management (with international placeme,309,
+48,Course_Code,Course,Points1,Points2
+49,AL857,Digital Marketing                                 ,304,
+50,Course_Code,Course,Points1,Points2
+51,AL859,International Business                            ,308,
+52,Course_Code,Course,Points1,Points2
+53,AL860,Social Care Practice                              ,301,
+54,Course_Code,Course,Points1,Points2
+55,AL861,Animation and Illustration (portfolio)            ,#575,
+56,Course_Code,Course,Points1,Points2
+57,AL863,Graphic and Digital Design (portfolio)            ,#747,
+58,Course_Code,Course,Points1,Points2
+59,AL864,Early Years Care and Education                    ,306,
+60,Course_Code,Course,Points1,Points2
+61,AL870,Applied Psychology                                ,484*,467*
+62,Course_Code,Course,Points1,Points2
+63,CW018,Business (options)                                ,307,
+64,Course_Code,Course,Points1,Points2
+65,CW028,Early Childhood Education and Care                ,260,
+66,Course_Code,Course,Points1,Points2
+67,CW038,Art (portfolio)                                   ,#700,
+68,Course_Code,Course,Points1,Points2
+69,CW058,Tourism and Event Management                      ,292,
+70,Course_Code,Course,Points1,Points2
+71,CW068,Applied Social Studies in Professional Social Care,250,
+72,Course_Code,Course,Points1,Points2
+73,CW078,Sustainable Farm Management and Agribusiness      ,270,
+74,Course_Code,Course,Points1,Points2
+75,CW088,Visual Communications and Design                  ,270,
+76,Course_Code,Course,Points1,Points2
+77,CW108,Science (options)                                 ,266,
+78,Course_Code,Course,Points1,Points2
+79,CW128,Brewing and Distilling                            ,307,
+80,Course_Code,Course,Points1,Points2
+81,CW138,Sport and Exercise Science                        ,430,423
+82,Course_Code,Course,Points1,Points2
+83,CW148,Strength and Conditioning                         ,388,
+84,Course_Code,Course,Points1,Points2
+85,CW188,Sport Rehabilitation and Athletic Therapy         ,451,
+86,Course_Code,Course,Points1,Points2
+87,CW208,Computer Games Development                        ,272,
+88,Course_Code,Course,Points1,Points2
+89,CW238,Software Development                              ,295,
+90,Course_Code,Course,Points1,Points2
+91,CW248,Information Technology Management                 ,293,
+92,Course_Code,Course,Points1,Points2
+93,CW258,Cybercrime and IT Security                        ,292,
+94,Course_Code,Course,Points1,Points2
+95,CW268,Computing in Interactive Digital Art and Design   ,291,
+96,Course_Code,Course,Points1,Points2
+97,CW438,Construction (options)                            ,260,251
+98,Course_Code,Course,Points1,Points2
+99,CW468,Architectural Technology                          ,291,283
+100,Course_Code,Course,Points1,Points2
+101,CW478,Civil Engineering                                 ,465,
+102,Course_Code,Course,Points1,Points2
+103,CW548,Mechanical Engineering                            ,330,328
+104,Course_Code,Course,Points1,Points2
+105,CW558,Electronic Systems                                ,280,
+106,Course_Code,Course,Points1,Points2
+107,CW568,Aerospace Engineering                             ,371,359
+108,Course_Code,Course,Points1,Points2
+109,CW578,TV and Media Production                           ,318,
+110,Course_Code,Course,Points1,Points2
+111,CW708,Law - LLB                                         ,292,
+112,Course_Code,Course,Points1,Points2
+113,CW728,Product Design Innovation                         ,246,
+114,Course_Code,Course,Points1,Points2
+115,CW748,Early Childhood Education and Care                ,290,
+116,Course_Code,Course,Points1,Points2
+117,CW758,Professional Social Care Practice                 ,360,358
+118,Course_Code,Course,Points1,Points2
+119,CW808,Media and Public Relations                        ,247,
+120,Course_Code,Course,Points1,Points2
+121,CW848,Digital Marketing with Analytics                  ,269,
+122,Course_Code,Course,Points1,Points2
+123,CW858,Sports Management and Coaching (options  portfolio,#700,
+124,Course_Code,Course,Points1,Points2
+125,CW908,Business (options)                                ,272,
+126,Course_Code,Course,Points1,Points2
+127,CW938,Business with Law                                 ,270,
+128,Course_Code,Course,Points1,Points2
+129,CW948,Accounting                                        ,319,
+130,Course_Code,Course,Points1,Points2
+131,PC405,Social  Political and Community Studies           ,263,235
+132,Course_Code,Course,Points1,Points2
+133,PC410,Arts and Humanities (fulfils Teaching Council requ,262,230
+134,Course_Code,Course,Points1,Points2
+135,PC411,English and History (fulfils Teaching Council requ,243,224
+136,Course_Code,Course,Points1,Points2
+137,CR105,Chemical and Biopharmaceutical Engineering        ,443,
+138,Course_Code,Course,Points1,Points2
+139,CR106,Software Development                              ,431,
+140,Course_Code,Course,Points1,Points2
+141,CR108,Mechanical Engineering                            ,434,
+142,Course_Code,Course,Points1,Points2
+143,CR109,Structural Engineering                            ,396,
+144,Course_Code,Course,Points1,Points2
+145,CR110,Automotive Business Management and Technology     ,336,
+146,Course_Code,Course,Points1,Points2
+147,CR112,Creative Digital Media at CIT Crawford College of ,390,
+148,Course_Code,Course,Points1,Points2
+149,CR116,Computer Systems                                  ,365,
+150,Course_Code,Course,Points1,Points2
+151,CR121,Music at CIT Cork School of Music                 ,#904,#904
+152,Course_Code,Course,Points1,Points2
+153,CR125,Popular Music at CIT Cork School of Music         ,#1028,
+154,Course_Code,Course,Points1,Points2
+155,CR130,Musical Theatre at CIT Cork School of Music       ,#525,
+156,Course_Code,Course,Points1,Points2
+157,CR150,Business Information Systems                      ,350,
+158,Course_Code,Course,Points1,Points2
+159,CR210,Contemporary Applied Art (Ceramics  Glass  Textile,#450,
+160,Course_Code,Course,Points1,Points2
+161,CR220,Fine Art at CIT Crawford College of Art and Design,#400,
+162,Course_Code,Course,Points1,Points2
+163,CR225,Photography with New Media at CIT Crawford College,#435,
+164,Course_Code,Course,Points1,Points2
+165,CR305,Physical Sciences (Common Entry)                  ,260,
+166,Course_Code,Course,Points1,Points2
+167,CR310,IT Management                                     ,347,
+168,Course_Code,Course,Points1,Points2
+169,CR320,Biomedical Science - Offered jointly by CIT and UC,590*,
+170,Course_Code,Course,Points1,Points2
+171,CR325,Pharmaceutical Biotechnology                      ,466,
+172,Course_Code,Course,Points1,Points2
+173,CR333,Nutrition and Health Science                      ,425,
+174,Course_Code,Course,Points1,Points2
+175,CR335,Biological Sciences (Common Entry)                ,473,
+176,Course_Code,Course,Points1,Points2
+177,CR340,Analytical Chemistry with Quality Assurance       ,327,
+178,Course_Code,Course,Points1,Points2
+179,CR360,Instrument Engineering                            ,301,
+180,Course_Code,Course,Points1,Points2
+181,CR365,Environmental Science and Sustainable Technology  ,262,
+182,Course_Code,Course,Points1,Points2
+183,CR370,Agri-Biosciences                                  ,368,
+184,Course_Code,Course,Points1,Points2
+185,CR400,Accounting                                        ,315,
+186,Course_Code,Course,Points1,Points2
+187,CR420,Marketing                                         ,290,
+188,Course_Code,Course,Points1,Points2
+189,CR425,International Business with Language              ,279,
+190,Course_Code,Course,Points1,Points2
+191,CR430,Sport and Exercise Management                     ,402,
+192,Course_Code,Course,Points1,Points2
+193,CR435,Coaching Science and Sports Pedagogy              ,410,
+194,Course_Code,Course,Points1,Points2
+195,CR440,Montessori Education                              ,409,408
+196,Course_Code,Course,Points1,Points2
+197,CR500,Engineering (Common Entry)                        ,475,
+198,Course_Code,Course,Points1,Points2
+199,CR510,Sustainable Energy Engineering                    ,320,
+200,Course_Code,Course,Points1,Points2
+201,CR520,Biomedical Engineering                            ,444,
+202,Course_Code,Course,Points1,Points2
+203,CR560,Architectural Technology                          ,375,
+204,Course_Code,Course,Points1,Points2
+205,CR565,Interior Architecture                             ,431,
+206,Course_Code,Course,Points1,Points2
+207,CR570,Quantity Surveying                                ,375,
+208,Course_Code,Course,Points1,Points2
+209,CR572,Construction Management                           ,300,
+210,Course_Code,Course,Points1,Points2
+211,CR580,Electrical Engineering                            ,342,
+212,Course_Code,Course,Points1,Points2
+213,CR590,Electronic Engineering                            ,329,
+214,Course_Code,Course,Points1,Points2
+215,CR600,Visual Communications at CIT Crawford College of A,#280,
+216,Course_Code,Course,Points1,Points2
+217,CR660,Tourism Management                                ,246,
+218,Course_Code,Course,Points1,Points2
+219,CR700,Theatre and Drama Studies at CIT Cork School of Mu,#609,#609
+220,Course_Code,Course,Points1,Points2
+221,CR930,Home Economics and Business                       ,518*,
+222,Course_Code,Course,Points1,Points2
+223,CK101,Arts - 3 years                                    ,300,
+224,Course_Code,Course,Points1,Points2
+225,CK102,Social Science                                    ,434,431
+226,Course_Code,Course,Points1,Points2
+227,CK104,Arts with Music - 3 or 4 years (BMus or Chinese/Eu,#339,
+228,Course_Code,Course,Points1,Points2
+229,CK105,Film and Screen Media - 3 years or 4 years (Intern,421,420*
+230,Course_Code,Course,Points1,Points2
+231,CK107,Geographical and Archaeological Sciences - 3 or 4 ,312,
+232,Course_Code,Course,Points1,Points2
+233,CK108,Arts International - 4 years                      ,440*,440
+234,Course_Code,Course,Points1,Points2
+235,CK109,English - 3 years or 4 years (International Pathwa,367,357
+236,Course_Code,Course,Points1,Points2
+237,CK110,World Languages                                   ,488,
+238,Course_Code,Course,Points1,Points2
+239,CK111,Early Years and Childhood Studies                 ,409,403
+240,Course_Code,Course,Points1,Points2
+241,CK112,Theatre and Performative Practices - 3 or 4 years ,#371,
+242,Course_Code,Course,Points1,Points2
+243,CK113,Criminology - 3 years or 4 years (International Pa,464,463
+244,Course_Code,Course,Points1,Points2
+245,CK114,Social Science (Youth and Community Work)         ,#,
+246,Course_Code,Course,Points1,Points2
+247,CK115,Social Work - Mature Applicants only              ,,
+248,Course_Code,Course,Points1,Points2
+249,CK118,Digital Humanities and IT - 3 or 4 years (Work Exp,347,339
+250,Course_Code,Course,Points1,Points2
+251,CK120,Applied Psychology                                ,544,543*
+252,Course_Code,Course,Points1,Points2
+253,CK121,Psychology and Computing - 3 or 4 years (Work Expe,499,488
+254,Course_Code,Course,Points1,Points2
+255,CK122,Government and Political Science                  ,399,
+256,Course_Code,Course,Points1,Points2
+257,CK123,Anthropology                                      ,308,
+258,Course_Code,Course,Points1,Points2
+259,CK124,Education - Gaeilge                               ,473,
+260,Course_Code,Course,Points1,Points2
+261,CK125,Sports Studies and Physical Education             ,564,555*
+262,Course_Code,Course,Points1,Points2
+263,CK201,Commerce                                          ,500,499*
+264,Course_Code,Course,Points1,Points2
+265,CK202,Accounting                                        ,553,543*
+266,Course_Code,Course,Points1,Points2
+267,CK203,Business Information Systems                      ,455,452
+268,Course_Code,Course,Points1,Points2
+269,CK204,Finance                                           ,566*,566*
+270,Course_Code,Course,Points1,Points2
+271,CK205,Commerce (International) with French              ,465,
+272,Course_Code,Course,Points1,Points2
+273,CK206,Commerce (International) with German              ,466,455
+274,Course_Code,Course,Points1,Points2
+275,CK207,Commerce (International) with Italian             ,423,418
+276,Course_Code,Course,Points1,Points2
+277,CK208,Commerce (International) with Hispanic Studies    ,488,486
+278,Course_Code,Course,Points1,Points2
+279,CK209,Commerce (International) with Irish               ,507,
+280,Course_Code,Course,Points1,Points2
+281,CK211,Commerce (International) with Chinese Studies     ,385,
+282,Course_Code,Course,Points1,Points2
+283,CK212,Economics (through Transformational Learning) 3 or,445,444
+284,Course_Code,Course,Points1,Points2
+285,CK213,Food Marketing and Entrepreneurship               ,466,
+286,Course_Code,Course,Points1,Points2
+287,CK214,International Development                         ,332,
+288,Course_Code,Course,Points1,Points2
+289,CK301,Law (Pathways) -  3 or 4 years                    ,533,532*
+290,Course_Code,Course,Points1,Points2
+291,CK302,Law and French                                    ,545,
+292,Course_Code,Course,Points1,Points2
+293,CK304,Law and Irish                                     ,588,
+294,Course_Code,Course,Points1,Points2
+295,CK307,Law and Business                                  ,589*,589*
+296,Course_Code,Course,Points1,Points2
+297,CK401,Computer Science                                  ,503,495
+298,Course_Code,Course,Points1,Points2
+299,CK402,Biological and Chemical Sciences                  ,555*,555
+300,Course_Code,Course,Points1,Points2
+301,CK404,Biological  Earth and Environmental Sciences      ,500,495*
+302,Course_Code,Course,Points1,Points2
+303,CK405,Genetics                                          ,543,
+304,Course_Code,Course,Points1,Points2
+305,CK406,Chemical Sciences                                 ,532,
+306,Course_Code,Course,Points1,Points2
+307,CK407,Mathematical Sciences                             ,566,
+308,Course_Code,Course,Points1,Points2
+309,CK408,Physics and Astrophysics                          ,566,
+310,Course_Code,Course,Points1,Points2
+311,CK409,Industrial Physics - Offered jointly by UCC and CI,465,
+312,Course_Code,Course,Points1,Points2
+313,CK411,Data Science and Analytics                        ,531,
+314,Course_Code,Course,Points1,Points2
+315,CK412,Agricultural Science                              ,506,
+316,Course_Code,Course,Points1,Points2
+317,CK504,Nutritional Sciences                              ,555,554*
+318,Course_Code,Course,Points1,Points2
+319,CK505,Food Science                                      ,463,
+320,Course_Code,Course,Points1,Points2
+321,CK600,Engineering                                       ,510,509*
+322,Course_Code,Course,Points1,Points2
+323,CK606,Architecture - Offered jointly by UCC and CIT     ,543,
+324,Course_Code,Course,Points1,Points2
+325,CK701,Medicine (Undergraduate Entry - HPAT required)    ,#738,#737*
+326,Course_Code,Course,Points1,Points2
+327,CK702,Dentistry                                         ,625*,625*
+328,Course_Code,Course,Points1,Points2
+329,CK703,Pharmacy                                          ,613*,613*
+330,Course_Code,Course,Points1,Points2
+331,CK704,Occupational Therapy                              ,601*,
+332,Course_Code,Course,Points1,Points2
+333,CK705,Speech and Language Therapy                       ,568,566*
+334,Course_Code,Course,Points1,Points2
+335,CK706,Public Health Sciences                            ,500,
+336,Course_Code,Course,Points1,Points2
+337,CK707,Medical and Health Sciences                       ,578*,
+338,Course_Code,Course,Points1,Points2
+339,CK710,General Nursing                                   ,498*,497*
+340,Course_Code,Course,Points1,Points2
+341,CK712,Children`s and General Nursing (Integrated)       ,565,
+342,Course_Code,Course,Points1,Points2
+343,CK720,Mental Health Nursing                             ,455,452
+344,Course_Code,Course,Points1,Points2
+345,CK730,Intellectual Disability Nursing                   ,431,
+346,Course_Code,Course,Points1,Points2
+347,CK740,Midwifery                                         ,509*,
+348,Course_Code,Course,Points1,Points2
+349,CK791,Medicine  - Graduate Entry (GAMSAT required)      ,#60*,#60*
+350,Course_Code,Course,Points1,Points2
+351,AC120,International Business                            ,294,294
+352,Course_Code,Course,Points1,Points2
+353,AC137,Liberal Arts                                      ,271,270
+354,Course_Code,Course,Points1,Points2
+355,CT125,Computing and IT                                  ,242,242
+356,Course_Code,Course,Points1,Points2
+357,CT325,Business                                          ,253,253
+358,Course_Code,Course,Points1,Points2
+359,CM001,Education - Primary Teaching                      ,508,
+360,Course_Code,Course,Points1,Points2
+361,CM002,Education - Primary Teaching - Gaeltacht Applicant,#462,
+362,Course_Code,Course,Points1,Points2
+363,CM003,Oideachas – Bunmhúinteoireacht Trí Mheán na Gaeilg,#513,
+364,Course_Code,Course,Points1,Points2
+365,CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilg,#480,
+366,Course_Code,Course,Points1,Points2
+367,CM010,Education Studies                                 ,382,327
+368,Course_Code,Course,Points1,Points2
+369,CM020,Early Childhood Education                         ,317,
+370,Course_Code,Course,Points1,Points2
+371,DB500,Computing                                         ,234,234
+372,Course_Code,Course,Points1,Points2
+373,DB501,Computing (Cloud Computing)                       ,,178
+374,Course_Code,Course,Points1,Points2
+375,DB502,Computing (Data Analytics and Big Data)           ,267,233
+376,Course_Code,Course,Points1,Points2
+377,DB503,Computing (Software Development)                  ,,
+378,Course_Code,Course,Points1,Points2
+379,DB504,Computing (Web and Mobile Technology)             ,,
+380,Course_Code,Course,Points1,Points2
+381,DB510,Audio Production and Music Project Management     ,217,217
+382,Course_Code,Course,Points1,Points2
+383,DB512,Business Studies                                  ,243,210
+384,Course_Code,Course,Points1,Points2
+385,DB514,Business Studies (Law)                            ,239,225
+386,Course_Code,Course,Points1,Points2
+387,DB515,Business Studies (Human Resource Management)      ,242,217
+388,Course_Code,Course,Points1,Points2
+389,DB517,Marketing (Event Management)                      ,233,225
+390,Course_Code,Course,Points1,Points2
+391,DB518,Marketing (Digital Media)                         ,307,209
+392,Course_Code,Course,Points1,Points2
+393,DB521,Accounting and Finance                            ,243,228
+394,Course_Code,Course,Points1,Points2
+395,DB524,Business (Information Systems)                    ,247,239
+396,Course_Code,Course,Points1,Points2
+397,DB525,Marketing (Digital Media and Cloud Computing)     ,288,288
+398,Course_Code,Course,Points1,Points2
+399,DB526,Business (Cloud Computing)                        ,244,244
+400,Course_Code,Course,Points1,Points2
+401,DB527,Applied Social Care                               ,254,219
+402,Course_Code,Course,Points1,Points2
+403,DB531,Marketing                                         ,288,176
+404,Course_Code,Course,Points1,Points2
+405,DB562,Psychology                                        ,244,233
+406,Course_Code,Course,Points1,Points2
+407,DB566,Social Science                                    ,262,228
+408,Course_Code,Course,Points1,Points2
+409,DB567,Film and Creative Media                           ,245,213
+410,Course_Code,Course,Points1,Points2
+411,DB568,Law                                               ,254,228
+412,Course_Code,Course,Points1,Points2
+413,DB569,Business (Psychology)                             ,240,240
+414,Course_Code,Course,Points1,Points2
+415,DC001,Education - Early Childhood Education             ,445,
+416,Course_Code,Course,Points1,Points2
+417,DC002,Education - Primary Teaching                      ,518*,
+418,Course_Code,Course,Points1,Points2
+419,DC003,Education - Primary Teaching - Gaeltacht Applicant,#489,
+420,Course_Code,Course,Points1,Points2
+421,DC004,Education - Primary Teaching (Church of Ireland Ce,#451,
+422,Course_Code,Course,Points1,Points2
+423,DC009,Arts (Joint Honours) - Humanities                 ,356,
+424,Course_Code,Course,Points1,Points2
+425,DC010,Post Primary Teacher Education - Religious Educati,384,
+426,Course_Code,Course,Points1,Points2
+427,DC011,Post Primary Teacher Education - Religious Educati,409,
+428,Course_Code,Course,Points1,Points2
+429,DC012,Post Primary Teacher Education - Religious Educati,409,
+430,Course_Code,Course,Points1,Points2
+431,DC013,Post Primary Teacher Ed - Gaeilge with French/Germ,413,
+432,Course_Code,Course,Points1,Points2
+433,DC014,BA in Jazz and Contemporary Music Performance (aud,#311,
+434,Course_Code,Course,Points1,Points2
+435,DC110,Business Studies International                    ,498,
+436,Course_Code,Course,Points1,Points2
+437,DC111,Business Studies                                  ,511,
+438,Course_Code,Course,Points1,Points2
+439,DC112,Global Business (France)                          ,542*,
+440,Course_Code,Course,Points1,Points2
+441,DC113,Global Business (Germany)                         ,484,
+442,Course_Code,Course,Points1,Points2
+443,DC114,Global Business (Spain)                           ,544,
+444,Course_Code,Course,Points1,Points2
+445,DC115,Accounting and Finance                            ,544,
+446,Course_Code,Course,Points1,Points2
+447,DC116,Global Business (USA)                             ,613*,
+448,Course_Code,Course,Points1,Points2
+449,DC117,Aviation Management / Aviation Management with Pil,484,
+450,Course_Code,Course,Points1,Points2
+451,DC118,Gná agus Gaeilge / Business and Irish             ,368,
+452,Course_Code,Course,Points1,Points2
+453,DC119,Global Business (Canada)                          ,601,
+454,Course_Code,Course,Points1,Points2
+455,DC120,Computing for Business                            ,403,402
+456,Course_Code,Course,Points1,Points2
+457,DC121,Computer Science                                  ,475,
+458,Course_Code,Course,Points1,Points2
+459,DC123,Data Science                                      ,501,
+460,Course_Code,Course,Points1,Points2
+461,DC126,Actuarial Mathematics                             ,577*,
+462,Course_Code,Course,Points1,Points2
+463,DC127,Common Entry into Actuarial and Financial Mathemat,541,
+464,Course_Code,Course,Points1,Points2
+465,DC131,Communication Studies                             ,421,
+466,Course_Code,Course,Points1,Points2
+467,DC132,Journalism                                        ,452,
+468,Course_Code,Course,Points1,Points2
+469,DC133,Multimedia                                        ,435,
+470,Course_Code,Course,Points1,Points2
+471,DC155,Applied Language and Translation Studies          ,427,
+472,Course_Code,Course,Points1,Points2
+473,DC161,Analytical Science                                ,498,
+474,Course_Code,Course,Points1,Points2
+475,DC162,Chemical and Pharmaceutical Sciences              ,531*,
+476,Course_Code,Course,Points1,Points2
+477,DC163,Chemical Sciences General Entry (Undenominated Ent,466*,
+478,Course_Code,Course,Points1,Points2
+479,DC166,Environmental Science and Technology              ,423*,
+480,Course_Code,Course,Points1,Points2
+481,DC168,Genetics and Cell Biology                         ,543*,
+482,Course_Code,Course,Points1,Points2
+483,DC175,Physics General Entry (options)                   ,400,
+484,Course_Code,Course,Points1,Points2
+485,DC180,Biological Sciences General Entry (Undenominated E,530,
+486,Course_Code,Course,Points1,Points2
+487,DC181,Biotechnology                                     ,530,
+488,Course_Code,Course,Points1,Points2
+489,DC190,Electronic and Computer Engineering (with choice o,488,
+490,Course_Code,Course,Points1,Points2
+491,DC193,Mechatronic Engineering                           ,490,
+492,Course_Code,Course,Points1,Points2
+493,DC194,Sustainable Systems and Energy                    ,476,
+494,Course_Code,Course,Points1,Points2
+495,DC195,Mechanical and Manufacturing Engineering          ,500,
+496,Course_Code,Course,Points1,Points2
+497,DC197,Biomedical Engineering                            ,510,
+498,Course_Code,Course,Points1,Points2
+499,DC200,Common Entry into Engineering (Undenominated Entry,511,510
+500,Course_Code,Course,Points1,Points2
+501,DC202,Sport Science and Health                          ,511,
+502,Course_Code,Course,Points1,Points2
+503,DC203,Science Education                                 ,462,
+504,Course_Code,Course,Points1,Points2
+505,DC204,Athletic Therapy and Training                     ,558,
+506,Course_Code,Course,Points1,Points2
+507,DC205,Physical Education with Biology                   ,565,
+508,Course_Code,Course,Points1,Points2
+509,DC206,Physical Education with Mathematics               ,521,
+510,Course_Code,Course,Points1,Points2
+511,DC207,Psychology and Mathematics                        ,521,
+512,Course_Code,Course,Points1,Points2
+513,DC208,Psychology                                        ,565,
+514,Course_Code,Course,Points1,Points2
+515,DC209,Health and Society                                ,477,
+516,Course_Code,Course,Points1,Points2
+517,DC210,Psychology and Disruptive Technologies            ,506,
+518,Course_Code,Course,Points1,Points2
+519,DC215,General Nursing                                   ,456*,
+520,Course_Code,Course,Points1,Points2
+521,DC216,Mental Health Nursing                             ,420,
+522,Course_Code,Course,Points1,Points2
+523,DC217,Intellectual Disability Nursing                   ,382,
+524,Course_Code,Course,Points1,Points2
+525,DC218,Children`s and General Nursing (Integrated)       ,521*,
+526,Course_Code,Course,Points1,Points2
+527,DC230,Economics  Politics and Law                       ,431,
+528,Course_Code,Course,Points1,Points2
+529,DC231,International Relations                           ,398,
+530,Course_Code,Course,Points1,Points2
+531,DC232,Law and Society (BCL)                             ,469,
+532,Course_Code,Course,Points1,Points2
+533,DC235,Education and Training - Daytime and Flexible Deli,302,
+534,Course_Code,Course,Points1,Points2
+535,DC238,Social Sciences and Cultural Innovation           ,387,
+536,Course_Code,Course,Points1,Points2
+537,DC240,Marketing  Innovation and Technology              ,499,
+538,Course_Code,Course,Points1,Points2
+539,DC241,Digital Business and Innovation                   ,509,
+540,Course_Code,Course,Points1,Points2
+541,DC291,Arts (Joint Honours) - Media Studies              ,350,
+542,Course_Code,Course,Points1,Points2
+543,DC292,Arts (Joint Honours) - Law                        ,400,
+544,Course_Code,Course,Points1,Points2
+545,DC293,Arts (Joint Honours) - International Languages    ,379,
+546,Course_Code,Course,Points1,Points2
+547,DC294,Climate and Environmental Sustainability          ,475,
+548,Course_Code,Course,Points1,Points2
+549,DC295,Arts (Joint Honours) - Politics                   ,349,
+550,Course_Code,Course,Points1,Points2
+551,DL822,Arts Management                                   ,254,
+552,Course_Code,Course,Points1,Points2
+553,DL823,Business Management                               ,220,
+554,Course_Code,Course,Points1,Points2
+555,DL825,Applied Psychology                                ,418,413
+556,Course_Code,Course,Points1,Points2
+557,DL826,Graphic Design                                    ,#591,
+558,Course_Code,Course,Points1,Points2
+559,DL827,Art                                               ,#574,
+560,Course_Code,Course,Points1,Points2
+561,DL832,Animation                                         ,#989,
+562,Course_Code,Course,Points1,Points2
+563,DL833,Photography and Visual Media                      ,#671,#671
+564,Course_Code,Course,Points1,Points2
+565,DL836,Creative Computing                                ,235,
+566,Course_Code,Course,Points1,Points2
+567,DL837,New Media Studies                                 ,298,293
+568,Course_Code,Course,Points1,Points2
+569,DL838,Creative Music Production                         ,#713,
+570,Course_Code,Course,Points1,Points2
+571,DL839,Interaction and User Experience Design            ,#757,
+572,Course_Code,Course,Points1,Points2
+573,DL840,Digital Marketing                                 ,210,
+574,Course_Code,Course,Points1,Points2
+575,DL841,English and Equality Studies                      ,277,277
+576,Course_Code,Course,Points1,Points2
+577,DL843,Film                                              ,#987,#874
+578,Course_Code,Course,Points1,Points2
+579,DL844,Television                                        ,#566,
+580,Course_Code,Course,Points1,Points2
+581,DL845,Design for Film (degree options)                  ,#628,
+582,Course_Code,Course,Points1,Points2
+583,GC200,Business                                          ,269,242
+584,Course_Code,Course,Points1,Points2
+585,GC201,Accounting and Finance                            ,260,226
+586,Course_Code,Course,Points1,Points2
+587,GC230,Computing Science                                 ,300,289
+588,Course_Code,Course,Points1,Points2
+589,GC300,Business                                          ,264,264
+590,Course_Code,Course,Points1,Points2
+591,GC301,Accounting and Finance                            ,,251
+592,Course_Code,Course,Points1,Points2
+593,GC302,Business - HRM                                    ,377,377
+594,Course_Code,Course,Points1,Points2
+595,GC307,Business (Marketing)                              ,289,270
+596,Course_Code,Course,Points1,Points2
+597,GC400,Business                                          ,250,228
+598,Course_Code,Course,Points1,Points2
+599,GC401,Accounting and Finance                            ,242,242
+600,Course_Code,Course,Points1,Points2
+601,GC402,Business (HRM)                                    ,,
+602,Course_Code,Course,Points1,Points2
+603,GC403,Law                                               ,245,242
+604,Course_Code,Course,Points1,Points2
+605,GC407,Business (Marketing)                              ,264,264
+606,Course_Code,Course,Points1,Points2
+607,GC430,Computing Science                                 ,251,251
+608,Course_Code,Course,Points1,Points2
+609,GC450,Communications and Media Production               ,225,225
+610,Course_Code,Course,Points1,Points2
+611,GC462,Design Communication (portfolio)                  ,#300,
+612,Course_Code,Course,Points1,Points2
+613,GC489,Interior Architecture (portfolio)                 ,#288,#274
+614,Course_Code,Course,Points1,Points2
+615,GC494,Fashion Design (portfolio)                        ,#351,
+616,Course_Code,Course,Points1,Points2
+617,BY001,Business                                          ,210,210
+618,Course_Code,Course,Points1,Points2
+619,ID001,Accounting and Finance                            ,,
+620,Course_Code,Course,Points1,Points2
+621,ID002,Business Studies                                  ,,
+622,Course_Code,Course,Points1,Points2
+623,AD101,First Year Art and Design (Common Entry portfolio),#554,
+624,Course_Code,Course,Points1,Points2
+625,AD102,Graphic Design and Moving Image Design (portfolio),#538,
+626,Course_Code,Course,Points1,Points2
+627,AD103,Textile and Surface Design and Jewellery and Objec,#505,
+628,Course_Code,Course,Points1,Points2
+629,AD202,Education and Design or Fine Art (Second Level Tea,#591,
+630,Course_Code,Course,Points1,Points2
+631,AD204,Fine Art (portfolio)                              ,#514,
+632,Course_Code,Course,Points1,Points2
+633,AD211,Fashion Design (portfolio)                        ,#760,#679
+634,Course_Code,Course,Points1,Points2
+635,AD212,Product Design (portfolio)                        ,#413,
+636,Course_Code,Course,Points1,Points2
+637,AD215,Visual Culture                                    ,337,300
+638,Course_Code,Course,Points1,Points2
+639,AD217,Illustration (portfolio)                          ,#738,
+640,Course_Code,Course,Points1,Points2
+641,AD222,Interaction Design (portfolio)                    ,#444,
+642,Course_Code,Course,Points1,Points2
+643,NC003,Computing (Degree Award options)                  ,271,
+644,Course_Code,Course,Points1,Points2
+645,NC005,Human Resource Management                         ,301,
+646,Course_Code,Course,Points1,Points2
+647,NC009,Business                                          ,300,
+648,Course_Code,Course,Points1,Points2
+649,NC010,Psychology                                        ,420,
+650,Course_Code,Course,Points1,Points2
+651,NC020,Marketing Practice                                ,270,
+652,Course_Code,Course,Points1,Points2
+653,NC022,Accounting and Finance                            ,330,
+654,Course_Code,Course,Points1,Points2
+655,NC023,Technology Management (with specialisations)      ,266,
+656,Course_Code,Course,Points1,Points2
+657,NC030,Early Childhood Education and Care                ,251,251
+658,Course_Code,Course,Points1,Points2
+659,RC001,Medicine - Undergraduate Entry (HPAT required)    ,#741,#740*
+660,Course_Code,Course,Points1,Points2
+661,RC004,Physiotherapy                                     ,589*,589*
+662,Course_Code,Course,Points1,Points2
+663,RC005,Pharmacy                                          ,613*,613
+664,Course_Code,Course,Points1,Points2
+665,RC101,Medicine - Graduate Entry (GAMSAT required)       ,,
+666,Course_Code,Course,Points1,Points2
+667,NM801,Montessori Education                              ,262,
+668,Course_Code,Course,Points1,Points2
+669,NM802,Psychology                                        ,228,
+670,Course_Code,Course,Points1,Points2
+671,TU801,Sustainable Energy Engineering                    ,235,
+672,Course_Code,Course,Points1,Points2
+673,TU802,Electrical Services and Energy Management         ,309,
+674,Course_Code,Course,Points1,Points2
+675,TU804,Engineering (Common Entry with Award options)     ,270,
+676,Course_Code,Course,Points1,Points2
+677,TU805,Engineering (General Entry)                       ,466,465
+678,Course_Code,Course,Points1,Points2
+679,TU807,Computer Engineering in Mobile Systems            ,274,
+680,Course_Code,Course,Points1,Points2
+681,TU810,Mechatronic Engineering                           ,271,
+682,Course_Code,Course,Points1,Points2
+683,TU811,Product Design                                    ,440,434
+684,Course_Code,Course,Points1,Points2
+685,TU812,Design Technology and Innovation                  ,278,
+686,Course_Code,Course,Points1,Points2
+687,TU814,Sustainable Transport Management                  ,253,253
+688,Course_Code,Course,Points1,Points2
+689,TU828,Mechanical Engineering (General Entry)            ,300,
+690,Course_Code,Course,Points1,Points2
+691,TU829,Electronic Engineering (General Entry)            ,248,248
+692,Course_Code,Course,Points1,Points2
+693,TU831,Architectural Technology                          ,423,
+694,Course_Code,Course,Points1,Points2
+695,TU832,Architecture (Suitability Test and Interview)     ,#644,#638
+696,Course_Code,Course,Points1,Points2
+697,TU833,Construction Management                           ,396,
+698,Course_Code,Course,Points1,Points2
+699,TU834,Geographic Science                                ,315,
+700,Course_Code,Course,Points1,Points2
+701,TU835,Planning and Environmental Management             ,330,
+702,Course_Code,Course,Points1,Points2
+703,TU836,Property Economics (Valuation Surveying)          ,411,
+704,Course_Code,Course,Points1,Points2
+705,TU837,Quantity Surveying and Construction Economics     ,413,
+706,Course_Code,Course,Points1,Points2
+707,TU838,Sustainable Timber Technology                     ,307,271
+708,Course_Code,Course,Points1,Points2
+709,TU851,Analytical Chemistry (Environmental  Forensic and ,400,
+710,Course_Code,Course,Points1,Points2
+711,TU852,Chemical Sciences with Medicinal Chemistry        ,477,
+712,Course_Code,Course,Points1,Points2
+713,TU854,Science (General Entry)                           ,510,
+714,Course_Code,Course,Points1,Points2
+715,TU855,Science with Nanotechnology                       ,322,
+716,Course_Code,Course,Points1,Points2
+717,TU856,Computer Science                                  ,499,
+718,Course_Code,Course,Points1,Points2
+719,TU857,Computer Science (Infrastructure)                 ,403,
+720,Course_Code,Course,Points1,Points2
+721,TU858,Computer Science (International)                  ,395,
+722,Course_Code,Course,Points1,Points2
+723,TU859,Computing                                         ,251,
+724,Course_Code,Course,Points1,Points2
+725,TU860,Computing (Information Technology)                ,270,
+726,Course_Code,Course,Points1,Points2
+727,TU861,Computing with Language (French/German/Spanish)   ,235,235
+728,Course_Code,Course,Points1,Points2
+729,TU862,Computing with Artificial Intelligence Machine Lea,262,
+730,Course_Code,Course,Points1,Points2
+731,TU863,Digital Forensics and Cyber Security              ,282,
+732,Course_Code,Course,Points1,Points2
+733,TU864,DNA and Forensic Analysis                         ,500,441
+734,Course_Code,Course,Points1,Points2
+735,TU865,Cloud Computing                                   ,235,
+736,Course_Code,Course,Points1,Points2
+737,TU866,Biomedical and Molecular Diagnostics              ,522,
+738,Course_Code,Course,Points1,Points2
+739,TU867,Biomedical Science                                ,576,566*
+740,Course_Code,Course,Points1,Points2
+741,TU868,Clinical Measurement Science                      ,542,
+742,Course_Code,Course,Points1,Points2
+743,TU869,Environmental Health                              ,387,
+744,Course_Code,Course,Points1,Points2
+745,TU870,Human Nutrition and Dietetics                     ,601*,
+746,Course_Code,Course,Points1,Points2
+747,TU871,Optometry                                         ,532,
+748,Course_Code,Course,Points1,Points2
+749,TU872,Public Health Nutrition                           ,487,
+750,Course_Code,Course,Points1,Points2
+751,TU874,Mathematical Sciences                             ,294,294
+752,Course_Code,Course,Points1,Points2
+753,TU875,Pharmaceutical Healthcare                         ,451,
+754,Course_Code,Course,Points1,Points2
+755,TU876,Pharmaceutical Science                            ,445,
+756,Course_Code,Course,Points1,Points2
+757,TU877,Physics Technology                                ,314,314
+758,Course_Code,Course,Points1,Points2
+759,TU878,Physics with Energy and Environment               ,339,
+760,Course_Code,Course,Points1,Points2
+761,TU879,Physics with Medical Physics and Bioengineering   ,346,
+762,Course_Code,Course,Points1,Points2
+763,TU880,Physics with Data Science                         ,412,
+764,Course_Code,Course,Points1,Points2
+765,TU881,Food Innovation                                   ,309,
+766,Course_Code,Course,Points1,Points2
+767,TU882,Nutraceuticals in Health and Nutrition            ,380,
+768,Course_Code,Course,Points1,Points2
+769,TU902,Business (options)                                ,270,
+770,Course_Code,Course,Points1,Points2
+771,TU903,Business and Management                           ,477,
+772,Course_Code,Course,Points1,Points2
+773,TU904,Business and Law                                  ,462,
+774,Course_Code,Course,Points1,Points2
+775,TU905,Economics and Finance                             ,460,
+776,Course_Code,Course,Points1,Points2
+777,TU906,Human Resource Management                         ,386,377
+778,Course_Code,Course,Points1,Points2
+779,TU907,Logistics and Supply Chain Management             ,300,
+780,Course_Code,Course,Points1,Points2
+781,TU910,Accounting                                        ,420,
+782,Course_Code,Course,Points1,Points2
+783,TU912,Business Analytics                                ,331,311
+784,Course_Code,Course,Points1,Points2
+785,TU914,Business Computing                                ,322,
+786,Course_Code,Course,Points1,Points2
+787,TU917,Law (LLB ) with a Language                        ,356,
+788,Course_Code,Course,Points1,Points2
+789,TU918,Law (LLB)                                         ,463,
+790,Course_Code,Course,Points1,Points2
+791,TU919,Advertising and Marketing Communications          ,219,
+792,Course_Code,Course,Points1,Points2
+793,TU920,Digital Marketing                                 ,270,
+794,Course_Code,Course,Points1,Points2
+795,TU921,Digital Marketing Technologies                    ,230,
+796,Course_Code,Course,Points1,Points2
+797,TU922,Marketing                                         ,412,
+798,Course_Code,Course,Points1,Points2
+799,TU924,E-Commerce in Retailing                           ,307,
+800,Course_Code,Course,Points1,Points2
+801,TU925,Retail and Services Management                    ,307,
+802,Course_Code,Course,Points1,Points2
+803,TU932,Business (options)                                ,211,
+804,Course_Code,Course,Points1,Points2
+805,TU933,Accounting and Finance (campus options)           ,251,
+806,Course_Code,Course,Points1,Points2
+807,TU935,Sports Management and Coaching                    ,300,
+808,Course_Code,Course,Points1,Points2
+809,TU936,Sports Science and Health                         ,484,
+810,Course_Code,Course,Points1,Points2
+811,TU941,Botanical Cuisine                                 ,311,
+812,Course_Code,Course,Points1,Points2
+813,TU942,Culinary Arts                                     ,252,
+814,Course_Code,Course,Points1,Points2
+815,TU943,Culinary Entrepreneurship                         ,261,
+816,Course_Code,Course,Points1,Points2
+817,TU944,Culinary Science                                  ,336,
+818,Course_Code,Course,Points1,Points2
+819,TU951,International Hospitality and Tourism Management  ,244,
+820,Course_Code,Course,Points1,Points2
+821,TU952,International Hospitality Management              ,309,
+822,Course_Code,Course,Points1,Points2
+823,TU953,Tourism and Digital Marketing                     ,308,
+824,Course_Code,Course,Points1,Points2
+825,TU954,Event Management                                  ,326,
+826,Course_Code,Course,Points1,Points2
+827,TU955,Sports and Leisure Management                     ,275,
+828,Course_Code,Course,Points1,Points2
+829,TU961,Commercial Modern Music (BIMM - assessment/auditio,#536,#536
+830,Course_Code,Course,Points1,Points2
+831,TU962,Drama (Performance  audition)                     ,#448,
+832,Course_Code,Course,Points1,Points2
+833,TU963,Music (audition)                                  ,#364,
+834,Course_Code,Course,Points1,Points2
+835,TU965,International Business and Languages              ,357,
+836,Course_Code,Course,Points1,Points2
+837,TU967,Languages and International Tourism               ,298,
+838,Course_Code,Course,Points1,Points2
+839,TU973,Design - Visual Communication (portfolio)         ,#700,
+840,Course_Code,Course,Points1,Points2
+841,TU974,Fine Art (portfolio)                              ,#549,
+842,Course_Code,Course,Points1,Points2
+843,TU975,Interior Design (portfolio)                       ,#544,
+844,Course_Code,Course,Points1,Points2
+845,TU976,Photography (portfolio)                           ,#700,
+846,Course_Code,Course,Points1,Points2
+847,TU978,Creative Industries and Visual Culture            ,299,
+848,Course_Code,Course,Points1,Points2
+849,TU981,Creative Digital Media                            ,280,
+850,Course_Code,Course,Points1,Points2
+851,TU982,Media Production and Digital Arts                 ,369,
+852,Course_Code,Course,Points1,Points2
+853,TU983,Film and Broadcasting                             ,462,453
+854,Course_Code,Course,Points1,Points2
+855,TU984,Game Design                                       ,414,
+856,Course_Code,Course,Points1,Points2
+857,TU985,Journalism                                        ,367,
+858,Course_Code,Course,Points1,Points2
+859,TU989,Early Childhood Care and Education (campus options,270,
+860,Course_Code,Course,Points1,Points2
+861,TU991,Applied Social Studies in Social Care             ,326,
+862,Course_Code,Course,Points1,Points2
+863,TU992,Community Development and Youth Work              ,251,
+864,Course_Code,Course,Points1,Points2
+865,TU995,Early Childhood Education                         ,378,
+866,Course_Code,Course,Points1,Points2
+867,TU996,Social Care                                       ,407,
+868,Course_Code,Course,Points1,Points2
+869,TU997,Applied Social Care                               ,320,
+870,Course_Code,Course,Points1,Points2
+871,TR002,Music                                             ,508,477*
+872,Course_Code,Course,Points1,Points2
+873,TR003,History                                           ,552,543*
+874,Course_Code,Course,Points1,Points2
+875,TR004,Law                                               ,590*,589
+876,Course_Code,Course,Points1,Points2
+877,TR005,Philosophy                                        ,510,497
+878,Course_Code,Course,Points1,Points2
+879,TR006,Psychology                                        ,601*,590
+880,Course_Code,Course,Points1,Points2
+881,TR007,Clinical Speech and Language Studies              ,564*,
+882,Course_Code,Course,Points1,Points2
+883,TR009,Music Education                                   ,#496,#486
+884,Course_Code,Course,Points1,Points2
+885,TR015,Philosophy  Political Science  Economics and Socio,613*,613*
+886,Course_Code,Course,Points1,Points2
+887,TR016,Deaf Studies                                      ,389,
+888,Course_Code,Course,Points1,Points2
+889,TR018,Law and French                                    ,602*,602
+890,Course_Code,Course,Points1,Points2
+891,TR019,Law and German                                    ,577,567
+892,Course_Code,Course,Points1,Points2
+893,TR021,Classics  Ancient History and Archaeology         ,467,462
+894,Course_Code,Course,Points1,Points2
+895,TR022,Early and Modern Irish                            ,377,
+896,Course_Code,Course,Points1,Points2
+897,TR023,English Studies                                   ,546,541*
+898,Course_Code,Course,Points1,Points2
+899,TR024,European Studies                                  ,566,
+900,Course_Code,Course,Points1,Points2
+901,TR025,Drama and Theatre Studies                         ,#543,#519
+902,Course_Code,Course,Points1,Points2
+903,TR028,Ancient and Medieval History and Culture          ,498,463
+904,Course_Code,Course,Points1,Points2
+905,TR031,Mathematics                                       ,579,578
+906,Course_Code,Course,Points1,Points2
+907,TR032,Engineering                                       ,556,555
+908,Course_Code,Course,Points1,Points2
+909,TR033,Computer Science                                  ,566*,549
+910,Course_Code,Course,Points1,Points2
+911,TR034,Management Science and Information Systems Studies,625*,625*
+912,Course_Code,Course,Points1,Points2
+913,TR035,Theoretical Physics                               ,590,589*
+914,Course_Code,Course,Points1,Points2
+915,TR038,Engineering with Management                       ,589*,589*
+916,Course_Code,Course,Points1,Points2
+917,TR039,Computer Science  Linguistics and a Language      ,443,
+918,Course_Code,Course,Points1,Points2
+919,TR040,Middle Eastern and European Languages and Cultures,520,499
+920,Course_Code,Course,Points1,Points2
+921,TR041,Religion                                          ,417,
+922,Course_Code,Course,Points1,Points2
+923,TR042,Film                                              ,531,522
+924,Course_Code,Course,Points1,Points2
+925,TR043,History of Art and Architecture                   ,498,486
+926,Course_Code,Course,Points1,Points2
+927,TR051,Medicine (HPAT required)                          ,#743*,#743*
+928,Course_Code,Course,Points1,Points2
+929,TR052,Dental Science                                    ,625*,625*
+930,Course_Code,Course,Points1,Points2
+931,TR053,Physiotherapy                                     ,590*,
+932,Course_Code,Course,Points1,Points2
+933,TR054,Occupational Therapy                              ,578*,577*
+934,Course_Code,Course,Points1,Points2
+935,TR055,Radiation Therapy                                 ,577,566
+936,Course_Code,Course,Points1,Points2
+937,TR056,Human Health and Disease                          ,601*,
+938,Course_Code,Course,Points1,Points2
+939,TR060,Biological and Biomedical Sciences                ,578*,577*
+940,Course_Code,Course,Points1,Points2
+941,TR061,Chemical Sciences                                 ,558,554*
+942,Course_Code,Course,Points1,Points2
+943,TR062,Geography and Geoscience                          ,495,
+944,Course_Code,Course,Points1,Points2
+945,TR063,Physical Sciences                                 ,554,543
+946,Course_Code,Course,Points1,Points2
+947,TR064,Environmental Science and Engineering             ,555,
+948,Course_Code,Course,Points1,Points2
+949,TR072,Pharmacy                                          ,613*,613*
+950,Course_Code,Course,Points1,Points2
+951,TR080,Global Business                                   ,613*,
+952,Course_Code,Course,Points1,Points2
+953,TR081,Business  Economic and Social Studies (BESS)      ,577,567*
+954,Course_Code,Course,Points1,Points2
+955,TR084,Social Studies (Social Work)                      ,497,487*
+956,Course_Code,Course,Points1,Points2
+957,TR085,Business Studies and French                       ,564,
+958,Course_Code,Course,Points1,Points2
+959,TR086,Business Studies and German                       ,530,
+960,Course_Code,Course,Points1,Points2
+961,TR087,Business Studies and Russian                      ,487,
+962,Course_Code,Course,Points1,Points2
+963,TR089,Business Studies and Polish                       ,391,
+964,Course_Code,Course,Points1,Points2
+965,TR090,Business Studies and Spanish                      ,566,
+966,Course_Code,Course,Points1,Points2
+967,TR091,General Nursing (Meath and St James`s)            ,462,456*
+968,Course_Code,Course,Points1,Points2
+969,TR093,General Nursing (Adelaide School of Nursing)      ,#473,
+970,Course_Code,Course,Points1,Points2
+971,TR095,Mental Health Nursing                             ,442,
+972,Course_Code,Course,Points1,Points2
+973,TR097,Intellectual Disability Nursing                   ,412,410
+974,Course_Code,Course,Points1,Points2
+975,TR911,Children`s and General Nursing (Integrated)       ,531*,
+976,Course_Code,Course,Points1,Points2
+977,TR913,Midwifery                                         ,521,
+978,Course_Code,Course,Points1,Points2
+979,DN100,Architecture                                      ,555,
+980,Course_Code,Course,Points1,Points2
+981,DN120,Landscape Architecture                            ,463,435
+982,Course_Code,Course,Points1,Points2
+983,DN130,City Planning and Environmental Policy            ,445,424
+984,Course_Code,Course,Points1,Points2
+985,DN150,Engineering (Common Entry)                        ,565*,
+986,Course_Code,Course,Points1,Points2
+987,DN200,Science (options)                                 ,577,567
+988,Course_Code,Course,Points1,Points2
+989,DN201,Computer Science (Common Entry)                   ,554,549
+990,Course_Code,Course,Points1,Points2
+991,DN230,Actuarial and Financial Studies                   ,613*,613*
+992,Course_Code,Course,Points1,Points2
+993,DN240,Sustainability                                    ,510,
+994,Course_Code,Course,Points1,Points2
+995,DN250,Agricultural Science (options)                    ,454,444
+996,Course_Code,Course,Points1,Points2
+997,DN261,Food Science                                      ,531,
+998,Course_Code,Course,Points1,Points2
+999,DN262,Human Nutrition                                   ,566,
+1000,Course_Code,Course,Points1,Points2
+1001,DN300,Veterinary Medicine - Undergraduate Entry         ,#601*,
+1002,Course_Code,Course,Points1,Points2
+1003,DN301,Veterinary Medicine - Graduate Entry (GAMSAT requi,,
+1004,Course_Code,Course,Points1,Points2
+1005,DN310,Veterinary Nursing                                ,521,509
+1006,Course_Code,Course,Points1,Points2
+1007,DN400,Medicine - Undergraduate Entry (HPAT required)    ,#743*,
+1008,Course_Code,Course,Points1,Points2
+1009,DN401,Medicine - Graduate Entry (GAMSAT required)       ,#61*,
+1010,Course_Code,Course,Points1,Points2
+1011,DN410,Radiography                                       ,566*,566*
+1012,Course_Code,Course,Points1,Points2
+1013,DN411,Radiography - Graduate Entry                      ,#,
+1014,Course_Code,Course,Points1,Points2
+1015,DN420,Physiotherapy                                     ,601*,601*
+1016,Course_Code,Course,Points1,Points2
+1017,DN425,Health and Performance Science                    ,544,543
+1018,Course_Code,Course,Points1,Points2
+1019,DN430,Sport and Exercise Management                     ,484,476
+1020,Course_Code,Course,Points1,Points2
+1021,DN440,Biomedical  Health and Life Sciences              ,613*,613*
+1022,Course_Code,Course,Points1,Points2
+1023,DN450,General Nursing                                   ,462*,
+1024,Course_Code,Course,Points1,Points2
+1025,DN451,Children`s and General Nursing (Integrated)       ,533,
+1026,Course_Code,Course,Points1,Points2
+1027,DN452,Midwifery                                         ,510,509*
+1028,Course_Code,Course,Points1,Points2
+1029,DN453,Mental Health Nursing                             ,442,
+1030,Course_Code,Course,Points1,Points2
+1031,DN520,Joint Honours (options)                           ,381,378
+1032,Course_Code,Course,Points1,Points2
+1033,DN530,Humanities (options)                              ,397,388
+1034,Course_Code,Course,Points1,Points2
+1035,DN541,Modern Languages (options)                        ,320,
+1036,Course_Code,Course,Points1,Points2
+1037,DN600,Law (options)                                     ,576,567*
+1038,Course_Code,Course,Points1,Points2
+1039,DN610,Business and Law                                  ,573,567
+1040,Course_Code,Course,Points1,Points2
+1041,DN650,Commerce                                          ,555,
+1042,Course_Code,Course,Points1,Points2
+1043,DN660,Commerce International (options)                  ,555,554*
+1044,Course_Code,Course,Points1,Points2
+1045,DN670,Economics and Finance                             ,625*,625
+1046,Course_Code,Course,Points1,Points2
+1047,DN700,Social Sciences (options)                         ,475,474
+1048,Course_Code,Course,Points1,Points2
+1049,DN710,Economics                                         ,534,532*
+1050,Course_Code,Course,Points1,Points2
+1051,DN720,Psychology                                        ,566,564
+1052,Course_Code,Course,Points1,Points2
+1053,DN750,Social Policy and Sociology                       ,421,
+1054,Course_Code,Course,Points1,Points2
+1055,DK810,Accounting and Finance                            ,307,307
+1056,Course_Code,Course,Points1,Points2
+1057,DK816,Business Studies                                  ,301,301
+1058,Course_Code,Course,Points1,Points2
+1059,DK820,Computing in Games Development                    ,309,309
+1060,Course_Code,Course,Points1,Points2
+1061,DK821,Computing in Software Development                 ,320,316
+1062,Course_Code,Course,Points1,Points2
+1063,DK822,Augmented and Virtual Reality                     ,320,320
+1064,Course_Code,Course,Points1,Points2
+1065,DK830,Building Surveying                                ,305,
+1066,Course_Code,Course,Points1,Points2
+1067,DK831,Architectural Technology                          ,368,314
+1068,Course_Code,Course,Points1,Points2
+1069,DK832,Construction Management                           ,358,305
+1070,Course_Code,Course,Points1,Points2
+1071,DK843,Engineering (Common Entry)                        ,404,391
+1072,Course_Code,Course,Points1,Points2
+1073,DK844,Mechanical Engineering                            ,336,336
+1074,Course_Code,Course,Points1,Points2
+1075,DK845,Electrical and Electronic Engineering             ,331,331
+1076,Course_Code,Course,Points1,Points2
+1077,DK846,Civil Engineering                                 ,371,371
+1078,Course_Code,Course,Points1,Points2
+1079,DK850,International Tourism Management                  ,303,303
+1080,Course_Code,Course,Points1,Points2
+1081,DK861,Arts                                              ,302,302
+1082,Course_Code,Course,Points1,Points2
+1083,DK862,Social Care                                       ,322,319
+1084,Course_Code,Course,Points1,Points2
+1085,DK863,Creative Media                                    ,336,320
+1086,Course_Code,Course,Points1,Points2
+1087,DK864,Film and Television Production                    ,308,
+1088,Course_Code,Course,Points1,Points2
+1089,DK865,Audio and Music Production                        ,352,
+1090,Course_Code,Course,Points1,Points2
+1091,DK870,General Nursing                                   ,440*,440*
+1092,Course_Code,Course,Points1,Points2
+1093,DK872,Intellectual Disability Nursing                   ,367,366
+1094,Course_Code,Course,Points1,Points2
+1095,DK874,Mental Health Nursing                             ,398,
+1096,Course_Code,Course,Points1,Points2
+1097,DK876,Early Childhood Studies                           ,300,
+1098,Course_Code,Course,Points1,Points2
+1099,DK877,Midwifery                                         ,482,477
+1100,Course_Code,Course,Points1,Points2
+1101,DK880,Health and Physical Activity                      ,301,
+1102,Course_Code,Course,Points1,Points2
+1103,DK882,Agriculture (Award options)                       ,342,
+1104,Course_Code,Course,Points1,Points2
+1105,DK883,Science (Award options)                           ,373,368
+1106,Course_Code,Course,Points1,Points2
+1107,DK884,Sustainable Agriculture                           ,348,
+1108,Course_Code,Course,Points1,Points2
+1109,DK885,Agri-Food Production                              ,,
+1110,Course_Code,Course,Points1,Points2
+1111,DK886,Biopharmaceutical Science                         ,379,
+1112,Course_Code,Course,Points1,Points2
+1113,DK887,Environmental Science                             ,377,
+1114,Course_Code,Course,Points1,Points2
+1115,GA181,Accounting                                        ,303,
+1116,Course_Code,Course,Points1,Points2
+1117,GA182,Business                                          ,285,
+1118,Course_Code,Course,Points1,Points2
+1119,GA183,Business Information Systems                      ,298,
+1120,Course_Code,Course,Points1,Points2
+1121,GA184,Marketing and Sales                               ,300,
+1122,Course_Code,Course,Points1,Points2
+1123,GA185,Finance and Economics                             ,318,
+1124,Course_Code,Course,Points1,Points2
+1125,GA186,Business with Entrepreneurship                    ,287,
+1126,Course_Code,Course,Points1,Points2
+1127,GA187,Rural Enterprise and Agri-Business                ,291,
+1128,Course_Code,Course,Points1,Points2
+1129,GA281,Film and Documentary                              ,310,301
+1130,Course_Code,Course,Points1,Points2
+1131,GA282,Heritage Studies                                  ,252,
+1132,Course_Code,Course,Points1,Points2
+1133,GA283,Contemporary Art (portfolio)                      ,#790,
+1134,Course_Code,Course,Points1,Points2
+1135,GA284,Design                                            ,331,
+1136,Course_Code,Course,Points1,Points2
+1137,GA285,Education (Art  Design and Graphics)              ,406,
+1138,Course_Code,Course,Points1,Points2
+1139,GA380,International Hotel Management                    ,218,
+1140,Course_Code,Course,Points1,Points2
+1141,GA381,International Tourism Management                  ,252,
+1142,Course_Code,Course,Points1,Points2
+1143,GA382,Culinary and Gastronomic Science                  ,235,
+1144,Course_Code,Course,Points1,Points2
+1145,GA384,Event Management with Public Relations            ,230,
+1146,Course_Code,Course,Points1,Points2
+1147,GA480,Construction Management                           ,302,
+1148,Course_Code,Course,Points1,Points2
+1149,GA482,Quantity Surveying and Construction Economics     ,304,
+1150,Course_Code,Course,Points1,Points2
+1151,GA483,Architectural Technology                          ,281,273
+1152,Course_Code,Course,Points1,Points2
+1153,GA484,Civil Engineering                                 ,377,
+1154,Course_Code,Course,Points1,Points2
+1155,GA580,Software and Electronic Engineering               ,300,
+1156,Course_Code,Course,Points1,Points2
+1157,GA680,Mechanical Engineering                            ,400,
+1158,Course_Code,Course,Points1,Points2
+1159,GA681,Energy Engineering                                ,312,
+1160,Course_Code,Course,Points1,Points2
+1161,GA682,Biomedical Engineering                            ,331,
+1162,Course_Code,Course,Points1,Points2
+1163,GA683,Agricultural Engineering                          ,304,
+1164,Course_Code,Course,Points1,Points2
+1165,GA684,Engineering Common Entry to Manu/Agri/Biomed/Energ,413,
+1166,Course_Code,Course,Points1,Points2
+1167,GA685,Manufacturing Engineering Design                  ,336,
+1168,Course_Code,Course,Points1,Points2
+1169,GA780,Applied Freshwater and Marine Biology             ,366,
+1170,Course_Code,Course,Points1,Points2
+1171,GA781,Applied Biology and Biopharmaceutical Science     ,381,
+1172,Course_Code,Course,Points1,Points2
+1173,GA782,Chemical and Pharmaceutical Science               ,356,
+1174,Course_Code,Course,Points1,Points2
+1175,GA783,Physics and Instrumentation                       ,301,
+1176,Course_Code,Course,Points1,Points2
+1177,GA784,Science (Undenominated)                           ,445,
+1178,Course_Code,Course,Points1,Points2
+1179,GA785,Medical Science                                   ,517,510
+1180,Course_Code,Course,Points1,Points2
+1181,GA786,Forensic Science and Analysis                     ,408,
+1182,Course_Code,Course,Points1,Points2
+1183,GA787,Computing in Software Development                 ,310,
+1184,Course_Code,Course,Points1,Points2
+1185,GA788,Computing and Digital Media                       ,270,
+1186,Course_Code,Course,Points1,Points2
+1187,GA789,Agriculture and Environmental Management          ,340,
+1188,Course_Code,Course,Points1,Points2
+1189,GA790,Sport and Exercise Science                        ,376,366
+1190,Course_Code,Course,Points1,Points2
+1191,GA791,Public Health Nutrition                           ,368,
+1192,Course_Code,Course,Points1,Points2
+1193,GA880,General Nursing                                   ,440*,
+1194,Course_Code,Course,Points1,Points2
+1195,GA882,Psychiatric Nursing                               ,369,
+1196,Course_Code,Course,Points1,Points2
+1197,GA885,Outdoor Education                                 ,269,
+1198,Course_Code,Course,Points1,Points2
+1199,GA887,History and Geography                             ,201,
+1200,Course_Code,Course,Points1,Points2
+1201,GA889,Applied Social Care                               ,265,
+1202,Course_Code,Course,Points1,Points2
+1203,GA890,Early Childhood Education and Care                ,281,227
+1204,Course_Code,Course,Points1,Points2
+1205,GA891,Geography and Outdoor Education                   ,261,
+1206,Course_Code,Course,Points1,Points2
+1207,GA892,Community Development and Youth Work (Level 8)    ,,
+1208,Course_Code,Course,Points1,Points2
+1209,GA980,Education (Design Graphics and Construction)      ,410,
+1210,Course_Code,Course,Points1,Points2
+1211,GA981,Furniture Design and Manufacture                  ,346,
+1212,Course_Code,Course,Points1,Points2
+1213,GA982,Furniture Making and Architectural Woodworking    ,360,
+1214,Course_Code,Course,Points1,Points2
+1215,GA983,Furniture and Digital Manufacturing               ,,
+1216,Course_Code,Course,Points1,Points2
+1217,GA984,Furniture Design  Making and Technology - Common E,486,467
+1218,Course_Code,Course,Points1,Points2
+1219,GY101,Arts (Joint-Honours)                              ,327,326
+1220,Course_Code,Course,Points1,Points2
+1221,GY104,BSc (Psychology)                                  ,564,555
+1222,Course_Code,Course,Points1,Points2
+1223,GY105,Arts (History)                                    ,357,
+1224,Course_Code,Course,Points1,Points2
+1225,GY109,Arts (Mathematics and Education)                  ,413,
+1226,Course_Code,Course,Points1,Points2
+1227,GY110,Arts (Children and Youth Studies - options)       ,387,
+1228,Course_Code,Course,Points1,Points2
+1229,GY111,Arts (English and Creative Writing)               ,421,420
+1230,Course_Code,Course,Points1,Points2
+1231,GY113,Arts with Human Rights                            ,413,
+1232,Course_Code,Course,Points1,Points2
+1233,GY115,Arts with Performing Arts Studies                 ,300,
+1234,Course_Code,Course,Points1,Points2
+1235,GY118,Arts (Drama  Theatre and Performance Studies)     ,453,430
+1236,Course_Code,Course,Points1,Points2
+1237,GY119,Arts (Journalism)                                 ,484,473
+1238,Course_Code,Course,Points1,Points2
+1239,GY122,Na Dána (Cumarsáid agus Gaeilge)                  ,410,
+1240,Course_Code,Course,Points1,Points2
+1241,GY123,Applied Social Sciences                           ,419,
+1242,Course_Code,Course,Points1,Points2
+1243,GY125,Arts (Digital Arts and Technology)                ,403,
+1244,Course_Code,Course,Points1,Points2
+1245,GY127,Arts (Film and Digital Media)                     ,430,421
+1246,Course_Code,Course,Points1,Points2
+1247,GY128,Arts (Global Languages)                           ,346,
+1248,Course_Code,Course,Points1,Points2
+1249,GY129,Arts (Global Experience)                          ,465,
+1250,Course_Code,Course,Points1,Points2
+1251,GY130,Arts (Music)                                      ,462,
+1252,Course_Code,Course,Points1,Points2
+1253,GY132,Government (Politics  Economics and Law)          ,465,451
+1254,Course_Code,Course,Points1,Points2
+1255,GY133,Education (Computer Science and Mathematical Studi,454,
+1256,Course_Code,Course,Points1,Points2
+1257,GY134,Geography and Geosystems                          ,425,
+1258,Course_Code,Course,Points1,Points2
+1259,GY135,Arts (Global Media)                               ,442,
+1260,Course_Code,Course,Points1,Points2
+1261,GY136,Na Dána (Léann Teanga - options)                  ,526,
+1262,Course_Code,Course,Points1,Points2
+1263,GY201,Commerce                                          ,476,
+1264,Course_Code,Course,Points1,Points2
+1265,GY202,Commerce (International) with French              ,520,
+1266,Course_Code,Course,Points1,Points2
+1267,GY203,Commerce (International) with German              ,518,
+1268,Course_Code,Course,Points1,Points2
+1269,GY204,Commerce (International) with Spanish             ,506,
+1270,Course_Code,Course,Points1,Points2
+1271,GY206,Business Information Systems (Work Placement and O,509,
+1272,Course_Code,Course,Points1,Points2
+1273,GY207,Commerce (Accounting) including optional Global Ex,543,
+1274,Course_Code,Course,Points1,Points2
+1275,GY208,Commerce (Gaeilge)                                ,508,
+1276,Course_Code,Course,Points1,Points2
+1277,GY209,Commerce (Global Experience)                      ,551,
+1278,Course_Code,Course,Points1,Points2
+1279,GY250,Law and Business                                  ,510,
+1280,Course_Code,Course,Points1,Points2
+1281,GY251,Law (BCL)                                         ,542,
+1282,Course_Code,Course,Points1,Points2
+1283,GY252,Law (BCL) and Human Rights                        ,565,
+1284,Course_Code,Course,Points1,Points2
+1285,GY253,Law and Taxation                                  ,506,
+1286,Course_Code,Course,Points1,Points2
+1287,GY254,Law (BCL)  Criminology and Criminal Justice       ,548,
+1288,Course_Code,Course,Points1,Points2
+1289,GY261,Business Studies in International Hotel Management,#503,
+1290,Course_Code,Course,Points1,Points2
+1291,GY262,Commerce in International Hotel Management (interv,#709,
+1292,Course_Code,Course,Points1,Points2
+1293,GY301,Science                                           ,489,488
+1294,Course_Code,Course,Points1,Points2
+1295,GY303,Biomedical Science                                ,613,
+1296,Course_Code,Course,Points1,Points2
+1297,GY304,Biotechnology                                     ,498,495
+1298,Course_Code,Course,Points1,Points2
+1299,GY308,Environmental Science                             ,431,430
+1300,Course_Code,Course,Points1,Points2
+1301,GY309,Financial Mathematics and Economics               ,509,
+1302,Course_Code,Course,Points1,Points2
+1303,GY310,Marine Science                                    ,467,
+1304,Course_Code,Course,Points1,Points2
+1305,GY313,Environmental Health and Safety                   ,412,
+1306,Course_Code,Course,Points1,Points2
+1307,GY314,Earth and Ocean Sciences                          ,422,
+1308,Course_Code,Course,Points1,Points2
+1309,GY318,Biopharmaceutical Chemistry                       ,555,
+1310,Course_Code,Course,Points1,Points2
+1311,GY319,Mathematical Science                              ,543,
+1312,Course_Code,Course,Points1,Points2
+1313,GY320,Physics (Degree options: Applied Astrophysics Biom,465,
+1314,Course_Code,Course,Points1,Points2
+1315,GY321,Genetics and Genomics                             ,532,
+1316,Course_Code,Course,Points1,Points2
+1317,GY322,Agricultural Sciences                             ,485,
+1318,Course_Code,Course,Points1,Points2
+1319,GY350,Computer Science and Information Technology       ,495,
+1320,Course_Code,Course,Points1,Points2
+1321,GY401,Engineering (Undenominated)                       ,522,520
+1322,Course_Code,Course,Points1,Points2
+1323,GY402,Civil Engineering                                 ,533,521
+1324,Course_Code,Course,Points1,Points2
+1325,GY405,Mechanical Engineering                            ,541,
+1326,Course_Code,Course,Points1,Points2
+1327,GY406,Electronic and Computer Engineering               ,555,
+1328,Course_Code,Course,Points1,Points2
+1329,GY408,Biomedical Engineering                            ,554,
+1330,Course_Code,Course,Points1,Points2
+1331,GY410,Project and Construction Management               ,431,
+1332,Course_Code,Course,Points1,Points2
+1333,GY413,Energy Systems Engineering                        ,509,
+1334,Course_Code,Course,Points1,Points2
+1335,GY414,Electrical and Electronic Engineering             ,433,
+1336,Course_Code,Course,Points1,Points2
+1337,GY501,Medicine (five year/six year course  HPAT required,#737*,#737*
+1338,Course_Code,Course,Points1,Points2
+1339,GY502,Occupational Therapy                              ,601,
+1340,Course_Code,Course,Points1,Points2
+1341,GY503,Speech and Language Therapy                       ,578,
+1342,Course_Code,Course,Points1,Points2
+1343,GY504,Podiatric Medicine                                ,531,526
+1344,Course_Code,Course,Points1,Points2
+1345,GY515,General Nursing (Galway and Portiuncula)          ,502,496
+1346,Course_Code,Course,Points1,Points2
+1347,GY516,Mental Health Nursing                             ,475,441
+1348,Course_Code,Course,Points1,Points2
+1349,GY517,Midwifery                                         ,520,509
+1350,Course_Code,Course,Points1,Points2
+1351,LY108,Business - Accounting                             ,312,
+1352,Course_Code,Course,Points1,Points2
+1353,LY118,Business                                          ,288,
+1354,Course_Code,Course,Points1,Points2
+1355,LY128,Marketing with Online Technologies                ,261,261
+1356,Course_Code,Course,Points1,Points2
+1357,LY208,Law                                               ,300,290
+1358,Course_Code,Course,Points1,Points2
+1359,LY228,Sports and Exercise - Common Entry                ,290,
+1360,Course_Code,Course,Points1,Points2
+1361,LY408,Design - Common Entry                             ,#301,
+1362,Course_Code,Course,Points1,Points2
+1363,LY508,Fire Safety Engineering                           ,283,
+1364,Course_Code,Course,Points1,Points2
+1365,LY518,Quantity Surveying                                ,304,
+1366,Course_Code,Course,Points1,Points2
+1367,LY528,Construction Management                           ,262,
+1368,Course_Code,Course,Points1,Points2
+1369,LY538,Architectural Technology                          ,234,234
+1370,Course_Code,Course,Points1,Points2
+1371,LY608,Mechanical Engineering                            ,300,
+1372,Course_Code,Course,Points1,Points2
+1373,LY618,Electronic Engineering                            ,321,
+1374,Course_Code,Course,Points1,Points2
+1375,LY708,Applied Computing                                 ,320,
+1376,Course_Code,Course,Points1,Points2
+1377,LY748,Computer Science                                  ,316,
+1378,Course_Code,Course,Points1,Points2
+1379,LY818,Science - Common Entry                            ,302,
+1380,Course_Code,Course,Points1,Points2
+1381,LY828,Agriculture - Common Entry                        ,308,300
+1382,Course_Code,Course,Points1,Points2
+1383,LY908,General Nursing                                   ,429*,
+1384,Course_Code,Course,Points1,Points2
+1385,LY918,Psychiatric Nursing                               ,367*,
+1386,Course_Code,Course,Points1,Points2
+1387,LY928,Intellectual Disability Nursing                   ,357,
+1388,Course_Code,Course,Points1,Points2
+1389,LY968,Early Childhood Care  Health and Education        ,288,
+1390,Course_Code,Course,Points1,Points2
+1391,LY978,Health and Social Care - Common Entry             ,279,
+1392,Course_Code,Course,Points1,Points2
+1393,MI001,Contemporary and Applied Theatre Studies          ,209,
+1394,Course_Code,Course,Points1,Points2
+1395,MI002,Arts                                              ,280,
+1396,Course_Code,Course,Points1,Points2
+1397,MI004,Education - Primary Teaching - International      ,589,
+1398,Course_Code,Course,Points1,Points2
+1399,MI005,Education - Primary Teaching                      ,522,
+1400,Course_Code,Course,Points1,Points2
+1401,MI006,Education - Primary Teaching - Gaeltacht Applicant,#485,
+1402,Course_Code,Course,Points1,Points2
+1403,MI007,Early Childhood Care and Education                ,409,
+1404,Course_Code,Course,Points1,Points2
+1405,MI008,Education and Psychology - Primary Teaching       ,590,
+1406,Course_Code,Course,Points1,Points2
+1407,MI009,Education  Business Studies and Accounting        ,434,
+1408,Course_Code,Course,Points1,Points2
+1409,MI010,Education  Business Studies and Religious Studies ,370,
+1410,Course_Code,Course,Points1,Points2
+1411,MI011,Education  Gaeilge and Religious Studies          ,407,
+1412,Course_Code,Course,Points1,Points2
+1413,MI012,Education  Gaeilge and Business Studies           ,387,
+1414,Course_Code,Course,Points1,Points2
+1415,MI013,Education  Mathematics and Gaeilge                ,509,
+1416,Course_Code,Course,Points1,Points2
+1417,MI014,Education  Mathematics and Business Studies       ,476,
+1418,Course_Code,Course,Points1,Points2
+1419,CI110,Counselling and Psychotherapy                     ,292,
+1420,Course_Code,Course,Points1,Points2
+1421,CI111,Counselling and Psychotherapy with Addiction Studi,290,
+1422,Course_Code,Course,Points1,Points2
+1423,CI112,Counselling and Psychotherapy with Youth Studies  ,325,
+1424,Course_Code,Course,Points1,Points2
+1425,LC110,Art and Design (Common Entry  portfolio)          ,#794,
+1426,Course_Code,Course,Points1,Points2
+1427,LC114,Fashion and Textiles for Product and Costume (port,#914,
+1428,Course_Code,Course,Points1,Points2
+1429,LC115,Art and Design Teacher Education (LIT and UL  port,#993,
+1430,Course_Code,Course,Points1,Points2
+1431,LC220,Digital Marketing                                 ,263,
+1432,Course_Code,Course,Points1,Points2
+1433,LC223,Law and Taxation                                  ,331,
+1434,Course_Code,Course,Points1,Points2
+1435,LC224,Accounting and Finance                            ,300,
+1436,Course_Code,Course,Points1,Points2
+1437,LC225,Marketing and Management                          ,298,
+1438,Course_Code,Course,Points1,Points2
+1439,LC226,Enterprise and Innovation                         ,255,
+1440,Course_Code,Course,Points1,Points2
+1441,LC233,Software Development                              ,280,
+1442,Course_Code,Course,Points1,Points2
+1443,LC234,Immersive Digital Media and Spatial Computing     ,226,
+1444,Course_Code,Course,Points1,Points2
+1445,LC236,Internet Systems Development                      ,260,
+1446,Course_Code,Course,Points1,Points2
+1447,LC239,Computer Networks and Systems Management          ,317,
+1448,Course_Code,Course,Points1,Points2
+1449,LC241,Construction Management                           ,326,
+1450,Course_Code,Course,Points1,Points2
+1451,LC242,Property Valuation and Management                 ,308,
+1452,Course_Code,Course,Points1,Points2
+1453,LC243,Quantity Surveying                                ,278,
+1454,Course_Code,Course,Points1,Points2
+1455,LC248,Built Environment (Common Entry)                  ,300,
+1456,Course_Code,Course,Points1,Points2
+1457,LC252,Civil Engineering Management                      ,264,
+1458,Course_Code,Course,Points1,Points2
+1459,LC263,Medical Technology                                ,391,
+1460,Course_Code,Course,Points1,Points2
+1461,LC265,Forensic and Pharmaceutical Sciences              ,498,
+1462,Course_Code,Course,Points1,Points2
+1463,LC266,Drug and Medicinal Product Analysis               ,252,
+1464,Course_Code,Course,Points1,Points2
+1465,LC275,Electrical Engineering                            ,361,347
+1466,Course_Code,Course,Points1,Points2
+1467,LC288,Mechanical Engineering                            ,378,369
+1468,Course_Code,Course,Points1,Points2
+1469,LC289,Precision Engineering                             ,261,
+1470,Course_Code,Course,Points1,Points2
+1471,LC292,Social Care Work                                  ,374,
+1472,Course_Code,Course,Points1,Points2
+1473,LC293,Business Studies with Travel and Tourism Managemen,271,264
+1474,Course_Code,Course,Points1,Points2
+1475,LC294,Business Studies with Event Management            ,279,
+1476,Course_Code,Course,Points1,Points2
+1477,LC295,Business Studies with Sports Management           ,262,
+1478,Course_Code,Course,Points1,Points2
+1479,LC297,Community and Addiction Studies                   ,272,262
+1480,Course_Code,Course,Points1,Points2
+1481,LC320,Business                                          ,381,
+1482,Course_Code,Course,Points1,Points2
+1483,LC330,Business with Computing                           ,328,308
+1484,Course_Code,Course,Points1,Points2
+1485,LC340,Interior Design                                   ,391,368
+1486,Course_Code,Course,Points1,Points2
+1487,LC362,Biotechnology and Biopharmaceutical Sciences      ,429,
+1488,Course_Code,Course,Points1,Points2
+1489,LC371,Creative Broadcast and Film Production            ,325,310
+1490,Course_Code,Course,Points1,Points2
+1491,LC372,Music Technology and Production                   ,377,
+1492,Course_Code,Course,Points1,Points2
+1493,LC374,Renewable and Electrical Energy Engineering       ,337,319
+1494,Course_Code,Course,Points1,Points2
+1495,LC375,Industrial Automation and Robotic Systems         ,309,
+1496,Course_Code,Course,Points1,Points2
+1497,LC376,Electronic Engineering with Computer Systems      ,357,
+1498,Course_Code,Course,Points1,Points2
+1499,LC380,Automotive Engineering and Transport Management   ,298,
+1500,Course_Code,Course,Points1,Points2
+1501,LC392,Business Studies in Beauty and Spa Management     ,328,317
+1502,Course_Code,Course,Points1,Points2
+1503,LC393,Early Childhood Education and Care                ,309,276
+1504,Course_Code,Course,Points1,Points2
+1505,LC402,Social Care Work                                  ,228,
+1506,Course_Code,Course,Points1,Points2
+1507,LC408,Environmental Science and Climate                 ,279,
+1508,Course_Code,Course,Points1,Points2
+1509,LC416,Business                                          ,260,
+1510,Course_Code,Course,Points1,Points2
+1511,LC418,Computing - Games Design and Development          ,260,256
+1512,Course_Code,Course,Points1,Points2
+1513,LC422,Applied Strength and Conditioning                 ,289,
+1514,Course_Code,Course,Points1,Points2
+1515,LC502,Game Art and Design (portfolio)                   ,#841,
+1516,Course_Code,Course,Points1,Points2
+1517,LC517,Creative Media and Design                         ,279,
+1518,Course_Code,Course,Points1,Points2
+1519,LC518,Digital Animation Production (portfolio)          ,#807,
+1520,Course_Code,Course,Points1,Points2
+1521,LC612,Social Care Work                                  ,309,
+1522,Course_Code,Course,Points1,Points2
+1523,LM002,Arts                                              ,360*,360
+1524,Course_Code,Course,Points1,Points2
+1525,LM019,Social Sciences                                   ,451,
+1526,Course_Code,Course,Points1,Points2
+1527,LM020,Law and Accounting                                ,474,
+1528,Course_Code,Course,Points1,Points2
+1529,LM026,Performing Arts (audition format TBC)             ,#329,
+1530,Course_Code,Course,Points1,Points2
+1531,LM028,Criminal Justice                                  ,420,
+1532,Course_Code,Course,Points1,Points2
+1533,LM029,Law Plus                                          ,530,
+1534,Course_Code,Course,Points1,Points2
+1535,LM038,Psychology and Sociology                          ,530,
+1536,Course_Code,Course,Points1,Points2
+1537,LM039,Journalism and Digital Communication              ,432,
+1538,Course_Code,Course,Points1,Points2
+1539,LM040,European Studies                                  ,409,
+1540,Course_Code,Course,Points1,Points2
+1541,LM044,Applied Languages                                 ,429,
+1542,Course_Code,Course,Points1,Points2
+1543,LM050,Business Studies (options)                        ,451,
+1544,Course_Code,Course,Points1,Points2
+1545,LM056,International Business                            ,555*,
+1546,Course_Code,Course,Points1,Points2
+1547,LM058,Financial Mathematics                             ,468,
+1548,Course_Code,Course,Points1,Points2
+1549,LM063,Technology Management                             ,410,
+1550,Course_Code,Course,Points1,Points2
+1551,LM066,Environmental Science                             ,430,
+1552,Course_Code,Course,Points1,Points2
+1553,LM068,Food Science and Health                           ,464*,
+1554,Course_Code,Course,Points1,Points2
+1555,LM076,Product Design and Technology (portfolio required),#401,
+1556,Course_Code,Course,Points1,Points2
+1557,LM077,Aeronautical Engineering                          ,567,
+1558,Course_Code,Course,Points1,Points2
+1559,LM082,Construction Management and Engineering           ,446*,
+1560,Course_Code,Course,Points1,Points2
+1561,LM089,Sport and Exercise Sciences                       ,498*,
+1562,Course_Code,Course,Points1,Points2
+1563,LM090,Physical Education with concurrent Teacher Educati,552,544*
+1564,Course_Code,Course,Points1,Points2
+1565,LM091,Languages with concurrent Teacher Education       ,506,
+1566,Course_Code,Course,Points1,Points2
+1567,LM092,Science with Teacher Ed (Biology with Physics/Chem,521,
+1568,Course_Code,Course,Points1,Points2
+1569,LM093,Equine Science                                    ,367,
+1570,Course_Code,Course,Points1,Points2
+1571,LM094,Materials and Architectural Technology with concur,475,
+1572,Course_Code,Course,Points1,Points2
+1573,LM095,Materials and Engineering Technology with concurre,425,
+1574,Course_Code,Course,Points1,Points2
+1575,LM096,Science with Teacher Ed (Physical Sciences with Ch,454,
+1576,Course_Code,Course,Points1,Points2
+1577,LM097,Mathematics and Computer Science with concurrent T,465,
+1578,Course_Code,Course,Points1,Points2
+1579,LM099,Architecture                                      ,520,
+1580,Course_Code,Course,Points1,Points2
+1581,LM100,Physiotherapy                                     ,613*,
+1582,Course_Code,Course,Points1,Points2
+1583,LM101,Medicine  - Graduate Entry (GAMSAT required)      ,#57*,
+1584,Course_Code,Course,Points1,Points2
+1585,LM102,Psychology                                        ,534,
+1586,Course_Code,Course,Points1,Points2
+1587,LM103,Paramedic Studies (Full B/Provisional C1 Drivers L,#429,
+1588,Course_Code,Course,Points1,Points2
+1589,LM105,Exercise and Health Fitness Management            ,441,
+1590,Course_Code,Course,Points1,Points2
+1591,LM115,Chemical and Biochemical Engineering              ,476,
+1592,Course_Code,Course,Points1,Points2
+1593,LM116,Engineering (Biomedical/Civil/Design and Manufactu,498*,
+1594,Course_Code,Course,Points1,Points2
+1595,LM118,Electronic and Computer Engineering               ,445,
+1596,Course_Code,Course,Points1,Points2
+1597,LM121,Computer Science (Computer Systems/Games Dev/Cyber,402,
+1598,Course_Code,Course,Points1,Points2
+1599,LM122,Creative Media and Interaction Design (Digital Des,382,
+1600,Course_Code,Course,Points1,Points2
+1601,LM123,Biological and Chemical Sc. (Biosci/Envir Sci/Ind ,498*,
+1602,Course_Code,Course,Points1,Points2
+1603,LM124,Mathematics (Math Science/Maths and Physics/Econom,455,
+1604,Course_Code,Course,Points1,Points2
+1605,LM125,Physics (Applied Physics or Mathematics and Physic,489,
+1606,Course_Code,Course,Points1,Points2
+1607,LM150,General Nursing                                   ,498*,487
+1608,Course_Code,Course,Points1,Points2
+1609,LM152,Mental Health Nursing                             ,478,466
+1610,Course_Code,Course,Points1,Points2
+1611,LM154,Intellectual Disability Nursing                   ,462,443
+1612,Course_Code,Course,Points1,Points2
+1613,LM156,Midwifery                                         ,521*,508
+1614,Course_Code,Course,Points1,Points2
+1615,MU001,Theology and Arts                                 ,294,294
+1616,Course_Code,Course,Points1,Points2
+1617,MU002,Theology                                          ,,
+1618,Course_Code,Course,Points1,Points2
+1619,MH001,Education - Primary Teaching (Froebel)            ,564,
+1620,Course_Code,Course,Points1,Points2
+1621,MH002,Education - Primary Teaching - Gaeltacht Applicant,,
+1622,Course_Code,Course,Points1,Points2
+1623,MH003,Early Childhood - Teaching and Learning (full-time,381,
+1624,Course_Code,Course,Points1,Points2
+1625,MH101,Arts                                              ,338,336
+1626,Course_Code,Course,Points1,Points2
+1627,MH103,Music                                             ,#,
+1628,Course_Code,Course,Points1,Points2
+1629,MH106,Psychology - 3 years                              ,554,
+1630,Course_Code,Course,Points1,Points2
+1631,MH107,Social Science                                    ,390,
+1632,Course_Code,Course,Points1,Points2
+1633,MH109,Media Studies                                     ,324,
+1634,Course_Code,Course,Points1,Points2
+1635,MH116,Community and Youth Work (Full-Time)              ,#,
+1636,Course_Code,Course,Points1,Points2
+1637,MH201,Science                                           ,401,400
+1638,Course_Code,Course,Points1,Points2
+1639,MH202,Biotechnology                                     ,490,489
+1640,Course_Code,Course,Points1,Points2
+1641,MH203,Biological and Geographical Sciences              ,451,
+1642,Course_Code,Course,Points1,Points2
+1643,MH204,Physics with Astrophysics                         ,422,
+1644,Course_Code,Course,Points1,Points2
+1645,MH206,Theoretical Physics and Mathematics               ,521,
+1646,Course_Code,Course,Points1,Points2
+1647,MH207,Data Science                                      ,444,
+1648,Course_Code,Course,Points1,Points2
+1649,MH208,Biological and Biomedical Sciences                ,543,
+1650,Course_Code,Course,Points1,Points2
+1651,MH209,Psychology (through Science) - 4 years            ,529,
+1652,Course_Code,Course,Points1,Points2
+1653,MH210,Pharmaceutical and Biomedical Chemistry           ,510,
+1654,Course_Code,Course,Points1,Points2
+1655,MH212,Science|Maths and Computer Science|Mathematics (wi,452,443
+1656,Course_Code,Course,Points1,Points2
+1657,MH304,Engineering (Computer/Electronic/Communications)  ,351,351
+1658,Course_Code,Course,Points1,Points2
+1659,MH305,Product Design                                    ,326,
+1660,Course_Code,Course,Points1,Points2
+1661,MH306,Robotics and Intelligent Devices                  ,362,
+1662,Course_Code,Course,Points1,Points2
+1663,MH401,Finance (options)                                 ,370,
+1664,Course_Code,Course,Points1,Points2
+1665,MH402,Quantitative Finance                              ,476,
+1666,Course_Code,Course,Points1,Points2
+1667,MH403,Accounting and Finance                            ,424,
+1668,Course_Code,Course,Points1,Points2
+1669,MH404,Business (options)                                ,441,
+1670,Course_Code,Course,Points1,Points2
+1671,MH407,Business and Accounting                           ,423,
+1672,Course_Code,Course,Points1,Points2
+1673,MH411,Entrepreneurship                                  ,378,
+1674,Course_Code,Course,Points1,Points2
+1675,MH501,LLB Law - four year Single Major Law programme    ,507,
+1676,Course_Code,Course,Points1,Points2
+1677,MH502,Law (options)                                     ,465,
+1678,Course_Code,Course,Points1,Points2
+1679,MH601,Computer Science through Arts (options)           ,381,
+1680,Course_Code,Course,Points1,Points2
+1681,MH602,Computer Science through Science (options)        ,400,
+1682,Course_Code,Course,Points1,Points2
+1683,MH603,Computational Thinking                            ,520,
+1684,Course_Code,Course,Points1,Points2
+1685,MH801,Early Childhood - Teaching and Learning (part-time,AQA,AQA
+1686,Course_Code,Course,Points1,Points2
+1687,MH802,Community and Youth Work (part-time  in service)  ,,#
+1688,Course_Code,Course,Points1,Points2
+1689,MH803,Local Studies/Community Studies (part-time  evenin,,#
+1690,Course_Code,Course,Points1,Points2
+1691,AS001,Education  Home Economics and Biology - with concu,542,533
+1692,Course_Code,Course,Points1,Points2
+1693,AS002,Education  Home Economics and Religious Ed - with ,464,452*
+1694,Course_Code,Course,Points1,Points2
+1695,AS003,Education  Home Economics and Irish - with concurr,463*,457
+1696,Course_Code,Course,Points1,Points2
+1697,AS051,Nutrition  Food and Business Management           ,378,347
+1698,Course_Code,Course,Points1,Points2
+1699,AS054,Home Economics                                    ,440*,419*
+1700,Course_Code,Course,Points1,Points2
+1701,AS110,General Nursing                                   ,440*,432
+1702,Course_Code,Course,Points1,Points2
+1703,AS130,Intellectual Disability Nursing                   ,387,358
+1704,Course_Code,Course,Points1,Points2
+1705,SG141,Business                                          ,262,
+1706,Course_Code,Course,Points1,Points2
+1707,SG145,Business and ICT                                  ,279,
+1708,Course_Code,Course,Points1,Points2
+1709,SG146,Accounting                                        ,304,
+1710,Course_Code,Course,Points1,Points2
+1711,SG147,Sport with Business                               ,288,
+1712,Course_Code,Course,Points1,Points2
+1713,SG148,Tourism with Event Management                     ,298,
+1714,Course_Code,Course,Points1,Points2
+1715,SG150,Business in Marketing                             ,298,
+1716,Course_Code,Course,Points1,Points2
+1717,SG241,Performing Arts                                   ,341,
+1718,Course_Code,Course,Points1,Points2
+1719,SG242,Early Childhood Care and Education                ,287,
+1720,Course_Code,Course,Points1,Points2
+1721,SG243,Social Care Practice                              ,309,
+1722,Course_Code,Course,Points1,Points2
+1723,SG244,Fine Art                                          ,#501,
+1724,Course_Code,Course,Points1,Points2
+1725,SG245,Creative Design                                   ,332,
+1726,Course_Code,Course,Points1,Points2
+1727,SG246,Computing                                         ,316,
+1728,Course_Code,Course,Points1,Points2
+1729,SG247,English and Psychology                            ,319,
+1730,Course_Code,Course,Points1,Points2
+1731,SG248,Sociology and Politics                            ,298,
+1732,Course_Code,Course,Points1,Points2
+1733,SG249,Writing and Literature                            ,308,
+1734,Course_Code,Course,Points1,Points2
+1735,SG252,Software Development                              ,310,
+1736,Course_Code,Course,Points1,Points2
+1737,SG253,Computing in Computer Networks and Cyber Security ,336,
+1738,Course_Code,Course,Points1,Points2
+1739,SG254,Writing and Literature Online                     ,327,
+1740,Course_Code,Course,Points1,Points2
+1741,SG255,Law and Business                                  ,291,
+1742,Course_Code,Course,Points1,Points2
+1743,SG341,General Engineering                               ,373,
+1744,Course_Code,Course,Points1,Points2
+1745,SG342,Civil Engineering                                 ,418,
+1746,Course_Code,Course,Points1,Points2
+1747,SG343,Quantity Surveying                                ,300,
+1748,Course_Code,Course,Points1,Points2
+1749,SG344,Mechanical Engineering                            ,412,
+1750,Course_Code,Course,Points1,Points2
+1751,SG346,Construction Project Management and Applied Techno,313,
+1752,Course_Code,Course,Points1,Points2
+1753,SG347,Architecture                                      ,403,
+1754,Course_Code,Course,Points1,Points2
+1755,SG348,Interior Architecture and Design                  ,359,
+1756,Course_Code,Course,Points1,Points2
+1757,SG349,Electronics and Self Driving Technologies         ,,
+1758,Course_Code,Course,Points1,Points2
+1759,SG350,Robotics and Automation                           ,384,
+1760,Course_Code,Course,Points1,Points2
+1761,SG442,Occupational Safety and Health                    ,307,
+1762,Course_Code,Course,Points1,Points2
+1763,SG443,Human Nutrition                                   ,376,
+1764,Course_Code,Course,Points1,Points2
+1765,SG444,Science Undenominated                             ,358,
+1766,Course_Code,Course,Points1,Points2
+1767,SG445,Pharmaceutical Science with Drug Development      ,357,
+1768,Course_Code,Course,Points1,Points2
+1769,SG447,Health Science and Physical Activity              ,326,
+1770,Course_Code,Course,Points1,Points2
+1771,SG448,Forensic Investigation and Analysis               ,308,
+1772,Course_Code,Course,Points1,Points2
+1773,SG449,Medical Biotechnology                             ,315,
+1774,Course_Code,Course,Points1,Points2
+1775,SG450,Environmental Science with Ecology (Level 8)      ,310,
+1776,Course_Code,Course,Points1,Points2
+1777,TL801,Animation  Visual Effects and Motion Design (Level,#718,
+1778,Course_Code,Course,Points1,Points2
+1779,TL802,TV  Radio and New Media (Level 8)                 ,322,
+1780,Course_Code,Course,Points1,Points2
+1781,TL810,Computing with Software Development               ,308,
+1782,Course_Code,Course,Points1,Points2
+1783,TL811,Computing with Games Development                  ,322,
+1784,Course_Code,Course,Points1,Points2
+1785,TL815,Computing (Degree Award options)                  ,307,
+1786,Course_Code,Course,Points1,Points2
+1787,TL823,Event Management (3 year programme)               ,293,
+1788,Course_Code,Course,Points1,Points2
+1789,TL831,Business Studies (Major Specialism in: Acctng or M,306,
+1790,Course_Code,Course,Points1,Points2
+1791,TL842,Construction Management                           ,,
+1792,Course_Code,Course,Points1,Points2
+1793,TL844,Agricultural Engineering                          ,301,
+1794,Course_Code,Course,Points1,Points2
+1795,TL845,Civil Engineering                                 ,361,
+1796,Course_Code,Course,Points1,Points2
+1797,TL847,Manufacturing Engineering                         ,305,
+1798,Course_Code,Course,Points1,Points2
+1799,TL848,Agricultural Science                              ,307,
+1800,Course_Code,Course,Points1,Points2
+1801,TL851,Wildlife Biology (Degree Award options)           ,309,
+1802,Course_Code,Course,Points1,Points2
+1803,TL855,Pharmaceutical Science (Degree Award options)     ,316,
+1804,Course_Code,Course,Points1,Points2
+1805,TL858,Veterinary Bioscience                             ,317,
+1806,Course_Code,Course,Points1,Points2
+1807,TL871,Health and Leisure (Degree Award options)         ,303,
+1808,Course_Code,Course,Points1,Points2
+1809,TL872,Health and Leisure with Massage                   ,314,
+1810,Course_Code,Course,Points1,Points2
+1811,TL873,Coaching and Sports Performance                   ,308,
+1812,Course_Code,Course,Points1,Points2
+1813,TL874,Inclusive Sport and Physical Activity             ,341,
+1814,Course_Code,Course,Points1,Points2
+1815,TL880,Early Childhood Care and Education                ,309,
+1816,Course_Code,Course,Points1,Points2
+1817,TL881,Social Care                                       ,301,
+1818,Course_Code,Course,Points1,Points2
+1819,TL889,Counselling with Addiction - Mature applicants onl,,
+1820,Course_Code,Course,Points1,Points2
+1821,TL890,General Nursing and Mature Applicants             ,463,
+1822,Course_Code,Course,Points1,Points2
+1823,TL891,Mental Health Nursing and Mature Applicants       ,440,419
+1824,Course_Code,Course,Points1,Points2
+1825,WD001,Applied Computing (options)                       ,270,261
+1826,Course_Code,Course,Points1,Points2
+1827,WD002,Science (options)                                 ,279,
+1828,Course_Code,Course,Points1,Points2
+1829,WD005,Health Sciences (options)                         ,271,
+1830,Course_Code,Course,Points1,Points2
+1831,WD006,Exercise Sciences (options)                       ,270,
+1832,Course_Code,Course,Points1,Points2
+1833,WD007,Engineering (options)                             ,270,270
+1834,Course_Code,Course,Points1,Points2
+1835,WD025,Construction Management and Engineering           ,262,
+1836,Course_Code,Course,Points1,Points2
+1837,WD027,Music                                             ,#321,
+1838,Course_Code,Course,Points1,Points2
+1839,WD048,Business (options)                                ,279,
+1840,Course_Code,Course,Points1,Points2
+1841,WD084,Accounting                                        ,308,
+1842,Course_Code,Course,Points1,Points2
+1843,WD091,Hospitality Management                            ,225,
+1844,Course_Code,Course,Points1,Points2
+1845,WD116,General Nursing                                   ,446,
+1846,Course_Code,Course,Points1,Points2
+1847,WD117,Psychiatric Nursing                               ,415,
+1848,Course_Code,Course,Points1,Points2
+1849,WD120,Intellectual Disability Nursing                   ,390,
+1850,Course_Code,Course,Points1,Points2
+1851,WD134,International Business                            ,267,
+1852,Course_Code,Course,Points1,Points2
+1853,WD137,Design (Visual Communications)                    ,252,
+1854,Course_Code,Course,Points1,Points2
+1855,WD140,Laws                                              ,280,
+1856,Course_Code,Course,Points1,Points2
+1857,WD144,Architecture                                      ,309,
+1858,Course_Code,Course,Points1,Points2
+1859,WD147,Pharmaceutical Science                            ,288,
+1860,Course_Code,Course,Points1,Points2
+1861,WD150,Criminal Justice Studies                          ,280,
+1862,Course_Code,Course,Points1,Points2
+1863,WD152,Visual Art                                        ,243,
+1864,Course_Code,Course,Points1,Points2
+1865,WD161,Computer Forensics and Security                   ,270,
+1866,Course_Code,Course,Points1,Points2
+1867,WD162,Quantity Surveying                                ,226,
+1868,Course_Code,Course,Points1,Points2
+1869,WD163,Psychology                                        ,456,
+1870,Course_Code,Course,Points1,Points2
+1871,WD186,Sports Coaching and Performance                   ,261,
+1872,Course_Code,Course,Points1,Points2
+1873,WD187,Social Science                                    ,276,
+1874,Course_Code,Course,Points1,Points2
+1875,WD191,Agricultural Science                              ,377,
+1876,Course_Code,Course,Points1,Points2
+1877,WD192,Social Care Practice                              ,271,
+1878,Course_Code,Course,Points1,Points2
+1879,WD193,Marketing and Digital Media                       ,279,
+1880,Course_Code,Course,Points1,Points2
+1881,WD194,Culinary Arts                                     ,237,
+1882,Course_Code,Course,Points1,Points2
+1883,WD195,Architectural and Building Information Modelling T,279,
+1884,Course_Code,Course,Points1,Points2
+1885,WD200,Arts (options)                                    ,201,201
+1886,Course_Code,Course,Points1,Points2
+1887,WD210,Software Systems Development                      ,260,
+1888,Course_Code,Course,Points1,Points2
+1889,WD211,Creative Computing                                ,270,
+1890,Course_Code,Course,Points1,Points2
+1891,WD212,Recreation and Sport Management                   ,262,
+1892,Course_Code,Course,Points1,Points2
+1893,WD230,Mechanical and Manufacturing Engineering          ,230,230
+1894,Course_Code,Course,Points1,Points2
+1895,WD231,Early Childhood Care and Education                ,266,
+1896,Course_Code,Course,Points1,Points2
+1897,WD232,Business Information Systems                      ,261,261
