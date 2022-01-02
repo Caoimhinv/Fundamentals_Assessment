@@ -18,7 +18,6 @@ Included in this repositry are:
 - **pyplot.ipynb** - a jupyter notebook discussing matplotlib.pyplot
 - **cao.ipynb** - a jupyter notebook analysing the CAO points from 2019, 2020, and 2021 - cao.ipynb
 - **READ.md** - this README file
-- **assessment.pdf** - the original PDF assessement brief
 - **requirements.txt** - file containing all of the python libraries used
 - **data** - folder containing all of the relevent data files for the project
 - **images** - folder containing all images used in the notebooks
