@@ -12,7 +12,7 @@ The brief for this project was twofold:
 1. Create a jupyter notebook looking at the matplotlib.pyplot package
 2. Create a jupyter notebook analysing the CAO points data from 2019, 2020, and 2021
 ![matplotlib_logo](Images/Matplotlib2.png)
-<br>
+
 ![cao_logo](Images/cao.png)
 
 <br>
@@ -29,7 +29,8 @@ Included in this repositry are:
 <br>
 
 ### installation
-![jupyter_logo](Images/jupyter_logo.png)
+![jupyter_logo](Images/jupyter_logo.png)  
+
 The jupyter notebooks require a python environment with all of the listed packages in the requirements.txt file installed. The easiest way to do this is with Anaconda which is available from here - https://docs.anaconda.com/anaconda/install/.
 
 <br>
@@ -37,7 +38,7 @@ The jupyter notebooks require a python environment with all of the listed packag
 ### run
 Once installed, or the appropriate python environment set up, you can run the jupyter notebooks directly from `Terminal` (or whatever command line interface you are using). First you need to download the notebook locally, navigate to that location on Terminal, and then open the jupyter app by typing `jupyter lab`. The app will open in a browser window but runs on your local machine. To start you should click on the `kernel` menu and select `Restart Kernel and Run All`.  
 
-![jupyter_logo](Images/nbviewer.png)
+![jupyter_logo](Images/nbviewer.png)  
 The notebooks can also be viewed with `nbviewer` at the following link - https://nbviewer.org/github/Caoimhinv/Fundamentals_Assessment/tree/main/
 
 <br>
